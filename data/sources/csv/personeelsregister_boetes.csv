@@ -1,0 +1,264 @@
+my_medewerkersnummer,naam,jaar,datum,vergrijp,soort_vergrijp,straf,eenheid,soort_straf
+2,Hilbers,1890,1890-09-01,zonder verlof gereedschap maken voor eigen gebruik,misbruik,1,gulden,boete
+18,Jansen,1889,1889-04-01,slechte bouten maken,slecht werk,0.5,dag,inhouden loon
+18,Jansen,1894,1894-05-01,ongeoorloofde handeling,misbruik,6,maanden,uitsluiting van de gunst van vrijbiljetten
+18,Jansen,1902,1902-09-01,slecht werk afleveren,slecht werk,0.5,dag,inhouden loon
+35,Jong,1889,1889-10-01,vechten,wangedrag,0.5,dag,inhouden loon
+43,Andriessen,1890,1890-05-01,vechten,wangedrag,0.5,dag,inhouden loon
+74,Wildschut,1892,1892-04-01,onhandigheid een schaar gebroken,slecht werk,0.5,dag,inhouden loon
+103,Plantje,1889,1889-02-01,wegens absentie,niet werken,5,dag,inhouden loon
+103,Plantje,1892,1892-09-01,absent,niet werken,1,dag,inhouden loon
+103,Plantje,1897,1897-03-01,absent,niet werken,0.75,dag,inhouden loon
+103,Plantje,1897,1897-05-01,absent,niet werken,0.75,dag,inhouden loon
+103,Plantje,1897,1897-07-01,absent,niet werken,0.5,dag,inhouden loon
+103,Plantje,1897,1897-08-01,absent,niet werken,0.5,dag,inhouden loon
+103,Plantje,1897,1897-11-01,absent,niet werken,0.75,dag,inhouden loon
+103,Plantje,1898,1898-02-01,absent,niet werken,1.25,dag,inhouden loon
+103,Plantje,1899,1899-08-01,absent,niet werken,0.75,dag,inhouden loon
+129,Blansert,1893,1893-01-01,niet op gelijke middelen afdraaien der wielen op de assen,slecht werk,1,dag,inhouden loon
+130,Quint,1888,1888-04-01,indraaien van een plateau door onachtzaamheid,slecht werk,1,dag,inhouden loon
+130,Quint,1890,1890-09-01,onachtzaamheid op zijn werk,slecht werk,0.5,dag,inhouden loon
+132,Pardon,1891,1891-11-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+132,Pardon,1893,1893-04-01,stoeien,niet werken,0.5,dag,inhouden loon
+132,Pardon,1896,1896-11-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+132,Pardon,1897,1897-09-01,onzindelijke toestand van de wielbank,slecht werk,0.5,dag,inhouden loon
+133,Koeijers,1890,1890-09-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+134,Mekenkamp,1901,1901-10-01,twee tenderwielbanden te groot uitgedraaid,slecht werk,0.5,dag,inhouden loon
+134,Mekenkamp,1902,1902-10-01,scheefboren van gaten in oogbouten,slecht werk,0.25,gulden,boete
+135,Aandekerk,1891,1891-06-01,twee sponningen in wielbanden te krap indraaien,slecht werk,0.5,dag,inhouden loon
+136,Godefroij,1888,1888-12-01,niet werken volgens gegeven orders,slecht werk,0.5,dag,inhouden loon
+136,Godefroij,1890,1890-07-01,stoeien en gereedschappen verwaarlosen,niet werken,0.5,dag,inhouden loon
+136,Godefroij,1896,1896-07-01,een wielband te groot draaien,slecht werk,1,dag,inhouden loon
+162,Timmers,1886,1886-03-01,niet opvolgen van de bestaande voorschriften voor het inpersen van assen,slecht werk,1,dag,inhouden loon
+162,Timmers,1888,1888-10-01,misbruik maken van sterken drank,drankmisbruik,6,dag,inhouden loon
+162,Timmers,1890,1890-01-01,beschadigen van een drijfwiel bij het inbrengen van een spanring,slecht werk,1,dag,inhouden loon
+162,Timmers,1891,1891-05-01,onachtzaamheid bij het behandelen der wielenpers,slecht werk,0.5,dag,inhouden loon
+162,Timmers,1894,1894-02-01,roken onder werktijd,wangedrag,0.5,gulden,boete
+162,Timmers,1896,1896-02-01,brutaliteit tegen zijn ass. opzichter,subversiviteit,3,dag,inhouden loon
+164,Blankenstein,1878,1878-07-01,misbruik maken van sterken drank,drankmisbruik,1.5,dag,inhouden loon
+164,Blankenstein,1888,1888-10-01,misbruik maken van sterken drank,drankmisbruik,6,dag,inhouden loon
+192,Steeg,1900,1900-03-01,onattentie bij het nazien van werk,slecht werk,0.25,dag,inhouden loon
+195,Beck,1878,1878-12-01,misbruik maken van sterken drank,drankmisbruik,2,dag,inhouden loon
+195,Beck,1889,1889-05-01,loc Furie afgeleverd waarvan de ring der L. achterkrukpen zooveel ruimte op de draad had dat ze zonder draaien kon afgenomen worden.,slecht werk,5,gulden,inhouden premie
+195,Beck,1890,1890-01-01,wanorde in het opstapelen van gedemonteerde machinedelen,slecht werk,0.25,dag,inhouden loon
+195,Beck,1901,1901-03-01,absent,niet werken,0.5,dag,inhouden loon
+197,Dijk,1886,1886-04-01,onbehoorlijke gedrag,wangedrag,,helft van de premie,inhouden premie
+199,Michielse,1892,1892-04-01,onvoldoende afleveren van loc Frans Hals na reparatie,slecht werk,2.5,gulden,boete
+199,Michielse,1893,1893-11-01,niet toezien dat reeds begoten metalen uitgehamerd worden,slecht werk,2.5,gulden,inhouden premie
+199,Michielse,1894,1894-02-01,niet voldoende orde houden in zijn ploeg en te weinig overleg plegen over het werk met zijn baas,slecht werk,0.5,dag,inhouden loon
+207,Kuipers,1896,1896-11-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+210,Leen,1901,1901-01-01,1 dag (?) absent,niet werken,0.5,dag,inhouden loon
+210,Leen,1901,1901-07-01,1 dag (?) absent,niet werken,0.5,dag,inhouden loon
+210,Leen,1902,1902-04-01,absentie,niet werken,0.5,dag,inhouden loon
+210,Leen,1902,1902-06-01,absentie,niet werken,0.5,dag,inhouden loon
+210,Leen,1903,1903-03-01,1 dag (?) absent,niet werken,0.5,dag,inhouden loon
+211,Denssen,1902,1902-11-01,verkeerd monteren van drijfstangen,slecht werk,0.5,dag,inhouden loon
+213,Leeuwen,1891,1891-08-01,spelen,niet werken,1,dag,inhouden loon
+214,Perry,1889,1889-05-01,niet goed verpakken van binnenstoompijp loc. Cycloop,slecht werk,0.25,dag,inhouden loon
+217,Vossen,1880,1880-11-01,van loc Zeus de regulator i beweging … gebracht waardoor  … in de dienst ontstond,slecht werk,2,dag,inhouden loon
+217,Vossen,1889,1889-07-01,niet laten ?? geven der West: rem locom. Claudius Civilis,slecht werk,0.5,dag,inhouden loon
+217,Vossen,1890,1890-02-01,"niet voldoende nazien der kraanbeweging van loc. Poot, waardoor deze aanhoudend bleven blazen",slecht werk,2.5,gulden,boete
+217,Vossen,1890,1890-07-01,onvoldoende afleveren tender loc de Ruijter,slecht werk,2.5,gulden,inhouden premie
+217,Vossen,1890,1890-12-01,niet voldoende toezien op het pasmaken der metalen van loc Dijk waardoor er 2 voorgedraaid en gegoten moesten worden,slecht werk,5,gulden,inhouden premie
+219,Deppe,1881,1881-08-01,slecht herstellen van de regulator van de ..,slecht werk,2,dag,inhouden loon
+220,Aarts,1881,1881-07-01,slecht … der schuifstangen loc Pluto waardoor er op 19 juni een brak en de loc den dienst niet kon voortzetten,slecht werk,2,dag,inhouden loon
+221,Rieu,1890,1890-12-01,de buffers van tender 123 niet hersteld,slecht werk,0.5,dag,inhouden loon
+221,Rieu,1891,1891-08-01,onvoldoende afleveren van tender … waardoor ?? met loc … aan dern voeding waterpijpen …,slecht werk,1,gulden,boete
+225,Kors,1882,1882-11-01,niet opvolgen van bevelen,subversiviteit,2,dag,inhouden loon
+226,Vermeer,1900,1900-07-01,maken van gereedschap overtreding art 9. regl.,misbruik,1,gulden,boete
+226,Vermeer,1901,1901-05-01,niet opvolgen van orders,subversiviteit,0.25,dag,inhouden loon
+229,Gosewehr,1893,1893-05-01,handelen in strijd met art 9 van het reglement (gereedschap maken voor eigen gebruik),misbruik,1,gulden,boete
+231,Roodt,1890,1890-04-01,warmlopen van rechter achter tenderpot van de loc orpheus ,slecht werk,0.5,dag,inhouden loon
+231,Roodt,1896,1896-10-01,6 schoft absent,niet werken,1.25,dag,inhouden loon
+231,Roodt,1898,1898-05-01,verkeerd afteekenen,slecht werk,0.25,dag,inhouden loon
+235,Meijer,1889,1889-06-01,afbreken van remschrap? tender loc loc vulcanus,slecht werk,0.5,dag,inhouden loon
+235,Meijer,1890,1890-07-01,onvoldoende afleveren loc Sirene,slecht werk,2.5,gulden,inhouden premie
+235,Meijer,1891,1891-04-01,verkeerd afwerken een rookkastbodemplaat bedorven,slecht werk,2.5,gulden,inhouden premie
+235,Meijer,1891,1891-06-01,niet opvolgen van voorschrift,slecht werk,2.5,gulden,inhouden premie
+235,Meijer,1892,1892-03-01,onvoldoende toezien bij het pasmaken der metalen loc Leeuwerik,slecht werk,1,dag,inhouden loon
+269,Oplooi,1882,1882-11-01,niet opvolgen van …,subversiviteit,2,dag,inhouden loon
+270,Bon,1876,1876-01-01,het niet behoorlijk nazien eener trein,slecht werk,1,dag,inhouden loon
+270,Bon,1876,1876-06-01,het niet behoorlijk nazien eener trein,slecht werk,0.5,gulden,boete
+271,Kerklaan,1873,1873-04-01,onattentie bij het verzetten van een wissel,slecht werk,1,dag,inhouden loon
+271,Kerklaan,1874,1874-07-01,te snel aankomen te Hilversum,slecht werk,2,dag,inhouden loon
+271,Kerklaan,1874,1874-07-01,te snel aankomen te Hilversum,slecht werk,,,schorsing
+271,Kerklaan,1875,1875-11-01,verliezen van een vetkraan der locomotief,slecht werk,1,dag,inhouden loon
+271,Kerklaan,1876,1876-03-01,te hard rijden baanvak st anthoniewijk en Amsterdam,slecht werk,0.5,dag,inhouden loon
+271,Kerklaan,1876,1876-06-01,onattentie,slecht werk,4,dag,inhouden loon
+271,Kerklaan,1879,1879-09-01,,,,,ontslag
+271,Kerklaan,1889,1889-05-01,rooken,wangedrag,1,gulden,boete
+271,Kerklaan,1889,1889-06-01,als machinist dienstdoende een deur der remise te Haarlem stukgereden,slecht werk,0.5,dag,inhouden loon
+271,Kerklaan,1890,1890-02-01,rooken onder zijn werk,wangedrag,1,gulden,boete
+272,Scharwachter,1897,1897-11-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+273,Lieshout,1889,1889-07-01,onnauwkeurig afteekenen,slecht werk,0.5,dag,inhouden loon
+273,Lieshout,1897,1897-04-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+274,Kottman,1893,1893-02-01,niet goed … der mtalen voor loc Utrecht,slecht werk,0.5,dag,inhouden loon
+275,Bootsma,1892,1892-02-01,luieren,niet werken,0.5,dag,inhouden loon
+275,Bootsma,1901,1901-06-01,1 dag afwezig,niet werken,0.5,dag,inhouden loon
+420,Dweelaard,1893,1893-04-01,door onvoorzichtig te zijn bij het rangeren een deur der tender werkplaats indrukken,slecht werk,1,dag,inhouden loon
+423,Rijbroek,1891,1891-06-01,spelen,niet werken,1,dag,inhouden loon
+460,Busking,1874,1874-08-01,willekeurig wegblijven,niet werken,1,dag,inhouden loon
+463,Groenevelt,1872,1872-04-01,het vernielen van een dak,slecht werk,2.5,dag,inhouden loon
+463,Groenevelt,1896,1896-09-01,½ dag absent,niet werken,1.25,dag,inhouden loon
+467,Pull,1902,1902-01-01,absentie,niet werken,0.5,dag,inhouden loon
+481,Franssen,1881,1881-10-01,de penning van draaier J. Leefenstonk ?? met schafttijd medegenomen,misbruik,2,dag,inhouden loon
+484,Jonker,1898,1898-02-01,door onoplettendheid zijn bank beschadigen,slecht werk,0.5,dag,inhouden loon
+486,Reemer,1896,1896-05-01,5 schoften absent,niet werken,1,dag,inhouden loon
+510,Montfoort,1902,1902-11-01,door onoplettendheid boorbank ernstig beschadigd,slecht werk,0.5,dag,inhouden loon
+546,Horeman,1892,1892-08-01,gebruiken van sterken drank in de werkplaats,drankmisbruik,6,dag,inhouden loon
+552,Oploo,1875,1875-02-01,baldadigheid ,wangedrag,1,dag,inhouden loon
+552,Oploo,1901,1901-11-01,onvoorzichtigheid eenige tanden afgebroken van de bank,slecht werk,0.25,gulden,boete
+556,Hensen,1892,1892-08-01,handelen tegen de instructies,slecht werk,0.5,dag,inhouden loon
+557,Menage,1892,1892-06-01,absent,niet werken,1,dag,inhouden loon
+557,Menage,1893,1893-01-01,zijn bank vast laten lopen waardoor tanden zijn gebroken,slecht werk,0.5,dag,inhouden loon
+557,Menage,1897,1897-05-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+557,Menage,1897,1897-07-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+557,Menage,1898,1898-04-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+557,Menage,1898,1898-04-01,4 schoft absent,niet werken,0.75,dag,inhouden loon
+557,Menage,1902,1902-06-01,absent,niet werken,0.5,dag,inhouden loon
+557,Menage,1902,1902-06-01,absent,niet werken,0.5,dag,inhouden loon
+557,Menage,1902,1902-06-01,absent,niet werken,0.5,dag,inhouden loon
+577,Hessling,1879,1879-11-01,zich in opgewonden toestand bevinden door gebruik van sterken drank,drankmisbruik,3,dag,inhouden loon
+622,Hensen,1891,1891-07-01,brutaliteit tegen zijn voorman,subversiviteit,3,dag,inhouden loon
+622,Hensen,1896,1896-03-01,een bronzen stoeltje voor eigen gebruik maken,misbruik,3,dag,schorsing
+622,Hensen,1897,1897-02-01,onbehoorlijk gedrag tegenover ass. opz,subversiviteit,0.5,dag,inhouden loon
+622,Hensen,1897,1897-03-01,weigeren de weekl te teekenen wegens voorkomen van .5 dag straf en daarop ongepas uitdrukkingen tegenover zijn ass. opz.,subversiviteit,12,uur,schorsing
+643,Klumper,1874,1874-03-01,niet aan zijn werk bevonden,niet werken,1,dag,inhouden loon
+643,Klumper,1889,1889-02-01,onbehoorlijk gedrag te Hilversum op 18 febr. toen hij niet normaal was,wangedrag,6,dag,inhouden loon
+646,Ronde,1898,1898-02-01,niet goed solderen van een stoompijp van loc Visscherije,slecht werk,0.5,dag,inhouden loon
+665,Formanoy,1874,1874-03-01,niet aan zijn werk bevonden,niet werken,1,dag,inhouden loon
+675,Zwart,1888,1888-04-01,luieren,niet werken,0.5,dag,inhouden loon
+675,Zwart,1890,1890-03-01,niet gebruiken van de veiligheidstoestel op de spanningbank,slecht werk,0.5,dag,inhouden loon
+675,Zwart,1893,1893-11-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+676,Brakel,1894,1894-04-01,niet behoorlijk afwerken,slecht werk,0.5,dag,inhouden loon
+677,Prinsen,1889,1889-07-01,luieren,niet werken,0.5,dag,inhouden loon
+677,Prinsen,1890,1890-01-01,onvoldoende herstellen van C 90,slecht werk,0.5,dag,inhouden loon
+678,Remme,1897,1897-08-01,3 schoften absent,niet werken,0.5,dag,inhouden loon
+687,Meijer,1892,1892-09-01,niet volgens opgave afwerken,slecht werk,1,dag,inhouden loon
+687,Meijer,1892,1892-12-01,zijn voorman misleiden,subversiviteit,0.5,dag,inhouden loon
+688,Nederkoorn,1890,1890-10-01,slecht inzetten der ruiten,slecht werk,0.5,dag,inhouden loon
+692,Remme,1900,1900-09-01,luieren,niet werken,0.25,dag,inhouden loon
+697,Rijbroek,1883,1883-02-01,sterken drank in de werkplaats gebracht en gebruikt,drankmisbruik,6,dag,inhouden loon
+697,Rijbroek,1892,1892-01-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+697,Rijbroek,1900,1900-11-01,luieren,niet werken,0.5,dag,inhouden loon
+700,Meijer,1892,1892-09-01,niet volgens opgave afwerken,slecht werk,0.5,dag,inhouden loon
+700,Meijer,1892,1892-12-01,zijn voorman misleiden,subversiviteit,1,dag,inhouden loon
+701,Teeuwe,1889,1889-02-01,"in een rijtuig werken waarin ook vrouwen werken, dat steeds verboden is.",wangedrag,0.5,dag,inhouden loon
+701,Teeuwe,1889,1889-07-01,luieren,niet werken,0.5,dag,inhouden loon
+702,Vries,1890,1890-03-01,niet gebruiken van de veiligheidstoestel op den sponningbank,slecht werk,0.5,dag,inhouden loon
+702,Vries,1890,1890-11-01,slecht inzetten doorlekken der ruiten,slecht werk,1,dag,inhouden loon
+702,Vries,1892,1892-05-01,niet naar behoren af …. van …,slecht werk,0.5,dag,inhouden loon
+702,Vries,1893,1893-07-01,niet naar behoren af …. van …,slecht werk,1,dag,inhouden loon
+704,Stemler,1890,1890-12-01,slordig aanmaken van lijsten in …,slecht werk,0.5,dag,inhouden loon
+704,Stemler,1893,1893-12-01,een kaars laten branden in een rijtuig,slecht werk,1,dag,inhouden loon
+768,Polen,1888,1888-04-01,slecht herstellen,slecht werk,0.5,dag,inhouden loon
+768,Polen,1893,1893-02-01,slapen onder werktijd,niet werken,1,dag,inhouden loon
+772,Blote,1898,1898-12-01,3 schoften absent,niet werken,0.5,dag,inhouden loon
+774,Serne,1892,1892-03-01,slordig herstellen van den Kopel van loc Walhalla,slecht werk,0.5,dag,inhouden loon
+775,Beaumont,1889,1889-07-01,luieren,niet werken,0.5,dag,inhouden loon
+776,Diependaal,1879,1879-09-01,slapen,niet werken,,,ontslag
+777,Nijs,1896,1896-07-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+778,Blanke,1888,1888-03-01,brutaliteit tegen zijn ploegbaas,subversiviteit,3,dag,inhouden loon
+779,Vries,1888,1888-10-01,slordig repareren,slecht werk,0.5,dag,inhouden loon
+780,Groot,1888,1888-10-01,slordig repareren,slecht werk,0.5,dag,inhouden loon
+780,Groot,1896,1896-11-01,het op voorraad hebben en verkopen van bier aan CWS,drankmisbruik,3,dag,schorsing
+781,Dijkstra,1888,1888-02-01,niet behoorlijk afwerken,slecht werk,0.5,dag,inhouden loon
+782,Lammertsma,1889,1889-05-01,luieren,niet werken,0.5,dag,inhouden loon
+782,Lammertsma,1892,1892-11-01,luieren,niet werken,1,dag,inhouden loon
+782,Lammertsma,1895,1895-01-01,eenige scharnieren moedwillig verwaarlozen,slecht werk,1,dag,inhouden loon
+783,Loon,1891,1891-07-01,slordig aanmaken van remblokken van tender Maas,slecht werk,0.5,dag,inhouden loon
+784,Hilterman,1888,1888-10-01,slordig repareren,slecht werk,0.5,dag,inhouden loon
+785,Lust,1892,1892-11-01,niet behoorlijk aan zijn werk blijven,niet werken,1,dag,inhouden loon
+833,Haan,1871,1871-01-01,gesuspendeerd wegens misbruik maken van sterken drank,drankmisbruik,,,ontslag
+834,Draijer,1890,1890-11-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+835,Fortgens,1901,1901-09-01,slecht afwerken van 2e kla. bekleeding,slecht werk,0.25,dag,inhouden loon
+836,Zwaan,1879,1879-08-01,slapen onder werktijd en onwaarheid spreken,niet werken,4,dag,inhouden loon
+837,Bilderbeek,1879,1879-06-01,vechten,wangedrag,3,dag,inhouden loon
+839,Kleefstra,1879,1879-08-01,slapen onder werktijd,niet werken,3,dag,inhouden loon
+839,Kleefstra,1881,1881-10-01,medenemen penning 231 van bankwerker steenbergen uit den kast bij de portier,misbruik,3,dag,inhouden loon
+839,Kleefstra,1891,1891-06-01,slordig afwerken ,slecht werk,0.5,dag,inhouden loon
+839,Kleefstra,1891,1891-07-01,Zitkussens met de trijp op de koolasch zetten,slecht werk,0.5,dag,inhouden loon
+839,Kleefstra,1893,1893-02-01,slecht herstellen,slecht werk,0.5,dag,inhouden loon
+839,Kleefstra,1901,1901-09-01,niet goed afwerken,slecht werk,0.25,dag,inhouden loon
+852,Sostman,1896,1896-04-01,het brengen en gebruiken van sterke drank i/d werkplaats,drankmisbruik,6,dag,inhouden loon
+864,Kruijer,1883,1883-08-01,"loon teruggebracht van 1,20 op 1,- wegens luieren",niet werken,,,loon verlagen
+872,Scholte,1883,1883-08-01,"loon teruggebracht van 1,30 op 1,- wegens luieren",niet werken,,,loon verlagen
+873,Schrama,1889,1889-01-01,slecht schoonhouden der urinoirs,slecht werk,0.5,gulden,boete
+873,Schrama,1893,1893-01-01,niet aan zijn werk blijven,niet werken,0.5,dag,inhouden loon
+888,Hoogervorst,1888,1888-04-01,luieren,niet werken,0.5,dag,inhouden loon
+889,Zwart,1901,1901-09-01,niet goed schilderen zitting,slecht werk,0.25,dag,inhouden loon
+896,Hoevens,1891,1891-09-01,luieren en de courant lezen,niet werken,1,dag,inhouden loon
+896,Hoevens,1893,1893-07-01,niet naar behoren schilderen van een dak van een nieuw postrijtuig,slecht werk,0.5,dag,inhouden loon
+899,Bottenburg,1889,1889-06-01,slecht schilderen van ..,slecht werk,0.5,dag,inhouden loon
+899,Bottenburg,1893,1893-07-01,niet naar behoren schilderen van een nieuw postrijtuig,slecht werk,0.5,dag,inhouden loon
+899,Bottenburg,1902,1902-06-01,niet goed schoonmaken van Cs,slecht werk,0.25,dag,inhouden loon
+921,Marchand,1900,1900-08-01,niet uitschakelen van de motor,slecht werk,0.25,dag,inhouden loon
+922,Nieuwenhuijzen,1888,1888-11-01,slordig afschilderen van wagens,slecht werk,0.5,dag,inhouden loon
+922,Nieuwenhuijzen,1889,1889-03-01,slecht schilderen van ..,slecht werk,0.5,dag,inhouden loon
+922,Nieuwenhuijzen,1892,1892-03-01,brutaliteit,subversiviteit,1,dag,inhouden loon
+927,Beelen,1888,1888-11-01,luieren en brutaliteit,niet werken,1,dag,inhouden loon
+927,Beelen,1888,1888-11-01,slordig afschilderen van wagens en brutaliteit,slecht werk,1,dag,inhouden loon
+927,Beelen,1893,1893-05-01,luieren,niet werken,0.5,dag,inhouden loon
+988,Rosenberg,1889,1889-07-01,onnauwkeurig afteekenen,slecht werk,0.5,dag,inhouden loon
+988,Rosenberg,1896,1896-02-01,verkeerd plaatsen van …,slecht werk,0.5,dag,inhouden loon
+992,Graaff,1889,1889-04-01,een politoerster niet ongemoeid laten passeren,wangedrag,1,dag,inhouden loon
+993,Pfaff,1891,1891-09-01,luieren,niet werken,0.5,dag,inhouden loon
+995,Oudolf,1882,1882-12-01,vechten,wangedrag,2,dag,inhouden loon
+996,Kerkhoff,1891,1891-11-01,beluiden eindigen en … tegen voorman v/d Bosch,slecht werk,0.5,dag,inhouden loon
+996,Kerkhoff,1898,1898-01-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+996,Kerkhoff,1898,1898-06-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+996,Kerkhoff,1898,1898-12-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+997,Dreijer,1887,1887-09-01,luieren,niet werken,0.75,gulden,boete
+998,Coolen,1882,1882-04-01,niet werkende op een rijtuig bevonden,niet werken,3,dag,inhouden loon
+998,Coolen,1889,1889-07-01,onnauwkeurig afteekenen,slecht werk,0.5,dag,inhouden loon
+998,Coolen,1901,1901-08-01,vechten,wangedrag,0.5,dag,inhouden loon
+999,Ruifrok,1887,1887-01-01,luieren,niet werken,1,dag,inhouden loon
+999,Ruifrok,1893,1893-09-01,luieren,niet werken,1,dag,inhouden loon
+999,Ruifrok,1896,1896-10-01,onvoldoende afwerken der buffers,slecht werk,0.5,dag,inhouden loon
+999,Ruifrok,1898,1898-08-01,onvoldoende herstellen,slecht werk,0.5,dag,inhouden loon
+999,Ruifrok,1901,1901-11-01,tegen voorschriften hout stoken op veld …,slecht werk,0.25,dag,inhouden loon
+1000,Timmer,1888,1888-03-01,niet zorgvuldig klaarmaken van gastransportwagen C,slecht werk,1,dag,inhouden loon
+1001,Dokkum,1889,1889-06-01,het voorgevallen in trein 40 op 26 mei ll,wangedrag,0.5,jaar,uitsluiting van de gunst van vrijbiljetten
+1001,Dokkum,1891,1891-01-01,zich onder schaftijd te slapen leggen in een 2e klasse coupe waardoor deze bevuild werd,niet werken,0.5,gulden,boete
+1002,Frolich,1900,1900-12-01,slecht schoonmaken der trippleklep,slecht werk,0.25,dag,inhouden loon
+1004,Sebus,1891,1891-09-01,luieren,niet werken,0.5,dag,inhouden loon
+1005,Hollander,1888,1888-09-01,slecht onderhouden van gasleidingen,slecht werk,0.5,dag,inhouden loon
+1005,Hollander,1889,1889-05-01,luieren,niet werken,0.25,dag,inhouden loon
+1005,Hollander,1897,1897-10-01,niet naar teekening afwerken der gasleiding wagenlichterij,slecht werk,0.5,dag,inhouden loon
+1006,Pierre,1891,1891-06-01,onvoorzichtigheid bij het uitnemen der …,slecht werk,0.5,gulden,boete
+1007,Hensen,1888,1888-10-01,luieren en liegen,niet werken,1,dag,inhouden loon
+1007,Hensen,1889,1889-03-01,onverschilligheid,slecht werk,0.5,dag,inhouden loon
+1007,Hensen,1889,1889-05-01,1 dag (?) absent,niet werken,0.75,dag,inhouden loon
+1007,Hensen,1889,1889-07-01,onnauwkeurig afteekenen,slecht werk,0.5,dag,inhouden loon
+1007,Hensen,1897,1897-07-01,van zijn werk loopen,niet werken,0.5,dag,inhouden loon
+1007,Hensen,1897,1897-12-01,4 schoft absent,niet werken,0.75,dag,inhouden loon
+1007,Hensen,1899,1899-02-01,3 schoft absent,niet werken,0.5,dag,inhouden loon
+1105,Veldt,1889,1889-07-01,onnauwkeurig boren,slecht werk,0.5,dag,inhouden loon
+1109,Peper,1898,1898-08-01,brutaliteit,subversiviteit,0.5,dag,inhouden loon
+1109,Peper,1899,1899-10-01,lezen onder werktijd,niet werken,0.5,dag,inhouden loon
+1110,Alderliesten,1889,1889-07-01,onnauwkeurig boren,slecht werk,0.5,dag,inhouden loon
+1110,Alderliesten,1894,1894-05-01,onoplettendheid,slecht werk,0.5,dag,inhouden loon
+1119,Corstanje,1889,1889-12-01,slecht verpakken van een … van loc Diana,slecht werk,0.5,dag,inhouden loon
+1119,Corstanje,1892,1892-03-01,verkeerd opzetten van het regulateurshandel van loc Komeet waardoor een ongeval ontstond,slecht werk,1,dag,inhouden loon
+1119,Corstanje,1901,1901-08-01,met G potten en normale kleren in dienst gesteld,niet werken,0.25,gulden,boete
+1120,Werff,1897,1897-10-01,biljet aangevraagd voor zijn zoon van 18 jaar opgegeven voor 17 jaar,misbruik,6,maanden,uitsluiting van de gunst van vrijbiljetten
+1121,Honing,1891,1891-09-01,onachtzaam rangeren van wielen en rijtuigen waardoor een rijtuig is beschadigd,slecht werk,0.5,dag,inhouden loon
+2014,Hetem,1892,1892-11-01,aan zijn werk blijven,niet werken,0.5,dag,inhouden loon
+2014,Hetem,1894,1894-04-01,slapen,niet werken,0.5,dag,inhouden loon
+2014,Hetem,1901,1901-05-01,absentie,niet werken,0.5,dag,inhouden loon
+2023,Ingelath,1879,1879-07-01,onbetamelijk gedrag,wangedrag,2,dag,inhouden loon
+2023,Ingelath,1887,1887-08-01,absent,niet werken,1,dag,inhouden loon
+2031,Morzeld,1893,1893-02-01,beschadigen pijpenplaat ,slecht werk,0.5,dag,inhouden loon
+2031,Morzeld,1901,1901-07-01,met weinig zorg inzetten van steunb. te Haarlem,slecht werk,0.25,dag,inhouden loon
+2034,Otger,1899,1899-03-01,steunb. met onvoldoende zorg plaatsen,slecht werk,1,dag,inhouden loon
+2046,Veen,1890,1890-09-01,dom van loc Kers beschadigd,slecht werk,0.5,dag,inhouden loon
+2057,Wesselius,1891,1891-04-01,niet bij zijn werk blijven,niet werken,0.5,dag,inhouden loon
+2057,Wesselius,1891,1891-04-01,slapen,niet werken,1,dag,inhouden loon
+2057,Wesselius,1891,1891-12-01,brutaliteit tegen den zadelmakersbaas,subversiviteit,1,dag,inhouden loon
+2061,Booms,1887,1887-01-01,in loc loods te Katwijk in beschonken toestand bevonden,drankmisbruik,7,dag,inhouden loon
+2065,Beneker,1890,1890-05-01,voor de eerste maal drank brengen binnen de werkpl. (overtreding art 11 van het reglement),drankmisbruik,6,dag,inhouden loon
+2065,Beneker,1891,1891-11-01,te laat aankomen op Apeldoorn,slecht werk,2,dag,inhouden loon
+2065,Beneker,1892,1892-06-01,geen nieuwe steunboog plaatsen in loc van Alphen hoewel hij dit aan den baas voorgaf,slecht werk,0.5,dag,inhouden loon
+2065,Beneker,1892,1892-09-01,roekeloos omgaan met licht,slecht werk,0.5,dag,inhouden loon
+2065,Beneker,1893,1893-02-01,niet aan zijn werk blijven,niet werken,0.5,dag,inhouden loon
+2065,Beneker,1895,1895-04-01,vechten,wangedrag,0.5,dag,inhouden loon

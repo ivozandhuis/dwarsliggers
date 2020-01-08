@@ -1,0 +1,3904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2019-10-23">
+    <creator>NodosChile</creator>
+    <description>A graph file writing in R using "rgexf"</description>
+    <keywords>gexf graph, NodosChile, R, rgexf</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="name" type="string"/>
+      <attribute id="att2" title="aantal_uur" type="float"/>
+      <attribute id="att3" title="achternaam.x" type="string"/>
+      <attribute id="att4" title="functie.x" type="string"/>
+      <attribute id="att5" title="gebdat" type="string"/>
+      <attribute id="att6" title="gebpla" type="string"/>
+      <attribute id="att7" title="amco" type="integer"/>
+      <attribute id="att8" title="kleur" type="string"/>
+      <attribute id="att9" title="leeftijd" type="float"/>
+      <attribute id="att10" title="provincie" type="string"/>
+      <attribute id="att11" title="regio" type="string"/>
+      <attribute id="att12" title="regio2" type="string"/>
+      <attribute id="att13" title="geloof" type="string"/>
+      <attribute id="att14" title="gemengd_huw" type="boolean"/>
+      <attribute id="att15" title="type" type="string"/>
+      <attribute id="att16" title="werkplaats" type="string"/>
+      <attribute id="att17" title="afdeling" type="string"/>
+      <attribute id="att18" title="loon" type="float"/>
+      <attribute id="att19" title="loon_intrapolatie" type="float"/>
+      <attribute id="att20" title="loonsoort" type="string"/>
+      <attribute id="att21" title="inkomen" type="integer"/>
+      <attribute id="att22" title="inkomen_dummy" type="float"/>
+      <attribute id="att23" title="aantal_dienstjaren" type="float"/>
+      <attribute id="att24" title="HISCO" type="integer"/>
+      <attribute id="att25" title="HISCO_major" type="string"/>
+      <attribute id="att26" title="HISCO_minor" type="string"/>
+      <attribute id="att27" title="HISCO_unit" type="string"/>
+      <attribute id="att28" title="HISCLASS" type="string"/>
+      <attribute id="att29" title="SOCPO" type="string"/>
+      <attribute id="att30" title="huw_st" type="string"/>
+      <attribute id="att31" title="gehuwd_dummy" type="float"/>
+      <attribute id="att32" title="aantal_gezinsleden" type="integer"/>
+      <attribute id="att33" title="aantal_kinderen" type="float"/>
+      <attribute id="att34" title="kinderen_dummy" type="float"/>
+      <attribute id="att35" title="gem_leeftijd_kinderen" type="float"/>
+      <attribute id="att36" title="verantwoordelijkheid" type="float"/>
+      <attribute id="att37" title="mijn_wijknaam" type="string"/>
+      <attribute id="att38" title="adres.x" type="string"/>
+      <attribute id="att39" title="afdeling_kohier" type="string"/>
+      <attribute id="att40" title="kiesdistrict_GR1899" type="string"/>
+      <attribute id="att41" title="woningbouwvereniging" type="string"/>
+      <attribute id="att42" title="len" type="integer"/>
+      <attribute id="att43" title="t0" type="boolean"/>
+      <attribute id="att44" title="t1" type="boolean"/>
+      <attribute id="att45" title="t2" type="boolean"/>
+      <attribute id="att46" title="t3" type="boolean"/>
+      <attribute id="att47" title="t4" type="boolean"/>
+      <attribute id="att48" title="t5" type="boolean"/>
+      <attribute id="att49" title="aantal_wisselingen" type="float"/>
+      <attribute id="att50" title="staker" type="boolean"/>
+      <attribute id="att51" title="volhouder" type="boolean"/>
+      <attribute id="att52" title="ontslagen" type="boolean"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="1008">
+        <attvalues>
+          <attvalue for="att1" value="1008"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Batens"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1862-11-02"/>
+          <attvalue for="att6" value="Schooten"/>
+          <attvalue for="att7" value="10382"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="900"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="2"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Spaarne 13"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="426"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="2" label="1023">
+        <attvalues>
+          <attvalue for="att1" value="1023"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Steenken"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1861-03-12"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="42"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.80952380952381"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9.33333333333333"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Burgwal 32"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="402"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="3" label="1069">
+        <attvalues>
+          <attvalue for="att1" value="1069"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Gevel"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1876-01-22"/>
+          <attvalue for="att6" value="Leiden"/>
+          <attvalue for="att7" value="10702"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="27"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.80952380952381"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="10"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="2"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 113 ben"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="379"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="4" label="1071">
+        <attvalues>
+          <attvalue for="att1" value="1071"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Wijkhuizen"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1876-05-13"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="26"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="gk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.80952380952381"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="8"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="1"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Kamperstraat 43ben"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1133"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="5" label="1101">
+        <attvalues>
+          <attvalue for="att1" value="1101"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Jong"/>
+          <attvalue for="att4" value="poetser"/>
+          <attvalue for="att5" value="1859-03-14"/>
+          <attvalue for="att6" value="Haarlemmermeer"/>
+          <attvalue for="att7" value="11387"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="44"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.6"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="99910"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="99"/>
+          <attvalue for="att27" value="999"/>
+          <attvalue for="att28" value="11"/>
+          <attvalue for="att29" value="1"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="10"/>
+          <attvalue for="att33" value="7"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7"/>
+          <attvalue for="att36" value="8"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Teylerstraat 41"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="250"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="6" label="1105">
+        <attvalues>
+          <attvalue for="att1" value="1105"/>
+          <attvalue for="att2" value="20"/>
+          <attvalue for="att3" value="Veldt"/>
+          <attvalue for="att4" value="boorder"/>
+          <attvalue for="att5" value="1858-03-09"/>
+          <attvalue for="att6" value="Haarl'liede"/>
+          <attvalue for="att7" value="10508"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="21"/>
+          <attvalue for="att24" value="83450"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="834"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="10"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 109"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="297"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="7" label="1119">
+        <attvalues>
+          <attvalue for="att1" value="1119"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Corstanje"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1852-08-10"/>
+          <attvalue for="att6" value="Nijmegen"/>
+          <attvalue for="att7" value="11209"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="50"/>
+          <attvalue for="att10" value="Gelderland"/>
+          <attvalue for="att11" value="oost"/>
+          <attvalue for="att12" value="zuidoost"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenlichterij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="2.2"/>
+          <attvalue for="att19" value="2.2"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="21"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="10.3333333333333"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="A.L. Dyserinckstraat 70"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="300"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="8" label="1125">
+        <attvalues>
+          <attvalue for="att1" value="1125"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Schouten"/>
+          <attvalue for="att4" value="wagenlichter"/>
+          <attvalue for="att5" value="1858-01-27"/>
+          <attvalue for="att6" value="Schoonhoven"/>
+          <attvalue for="att7" value="10980"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenlichterij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.825"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="84190"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="84"/>
+          <attvalue for="att27" value="841"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="10"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomervaart 18g"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="765"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="9" label="1136">
+        <attvalues>
+          <attvalue for="att1" value="1136"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Eijking"/>
+          <attvalue for="att4" value="wagenlichter"/>
+          <attvalue for="att5" value="1855-05-09"/>
+          <attvalue for="att6" value="Beverwijk"/>
+          <attvalue for="att7" value="10272"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="47"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenlichterij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.825"/>
+          <attvalue for="att20" value=""/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="18"/>
+          <attvalue for="att24" value="84190"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="84"/>
+          <attvalue for="att27" value="841"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="5"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="6"/>
+          <attvalue for="att36" value="6"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 30"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="10" label="129">
+        <attvalues>
+          <attvalue for="att1" value="129"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Blansert"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1857-09-07"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wielendraaierij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="3"/>
+          <attvalue for="att19" value="3"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="1100"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="23"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Korte Dijk 19"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="2"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="207"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="11" label="161">
+        <attvalues>
+          <attvalue for="att1" value="161"/>
+          <attvalue for="att2" value="20"/>
+          <attvalue for="att3" value="Moser"/>
+          <attvalue for="att4" value="wielbandlegger"/>
+          <attvalue for="att5" value="1868-06-04"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="34"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wielendraaierij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.55"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="83990"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="839"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7.75"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Molensteeg 26"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="2"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="238"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="12" label="175">
+        <attvalues>
+          <attvalue for="att1" value="175"/>
+          <attvalue for="att2" value="15"/>
+          <attvalue for="att3" value="Riedeman"/>
+          <attvalue for="att4" value="zeilmaker"/>
+          <attvalue for="att5" value="1863-08-13"/>
+          <attvalue for="att6" value="Helder"/>
+          <attvalue for="att7" value="10285"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="39"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="gk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Zeil_zadelmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.84"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="79920"/>
+          <attvalue for="att25" value="7"/>
+          <attvalue for="att26" value="79"/>
+          <attvalue for="att27" value="799"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Van der Hulststraat 3"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="ons doel en streven"/>
+          <attvalue for="att42" value="198"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="13" label="18">
+        <attvalues>
+          <attvalue for="att1" value="18"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Jansen"/>
+          <attvalue for="att4" value="vuurwerker"/>
+          <attvalue for="att5" value="1856-08-08"/>
+          <attvalue for="att6" value="Nijmegen"/>
+          <attvalue for="att7" value="11209"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="46"/>
+          <attvalue for="att10" value="Gelderland"/>
+          <attvalue for="att11" value="oost"/>
+          <attvalue for="att12" value="zuidoost"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Smederij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="83110"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="831"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomervaart 18e"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="765"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="14" label="199">
+        <attvalues>
+          <attvalue for="att1" value="199"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Michielsen"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1862-08-11"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="2"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="700"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="10"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 60"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="15" label="228">
+        <attvalues>
+          <attvalue for="att1" value="228"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Bakker"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1847-07-04"/>
+          <attvalue for="att6" value="Bolsward"/>
+          <attvalue for="att7" value="10865"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="55"/>
+          <attvalue for="att10" value="Friesland"/>
+          <attvalue for="att11" value="noord"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="900"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 70"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="16" label="23">
+        <attvalues>
+          <attvalue for="att1" value="23"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Wel"/>
+          <attvalue for="att4" value="vuurwerker"/>
+          <attvalue for="att5" value="1870-02-26"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="33"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Smederij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.975"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="6"/>
+          <attvalue for="att24" value="83110"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="831"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="2"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="schoten"/>
+          <attvalue for="att38" value=""/>
+          <attvalue for="att39" value="0"/>
+          <attvalue for="att40" value="0"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="17" label="235">
+        <attvalues>
+          <attvalue for="att1" value="235"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Meijer"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1848-01-15"/>
+          <attvalue for="att6" value="Amsterdam"/>
+          <attvalue for="att7" value="11150"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="55"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="2"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="11"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9.66666666666667"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 129j"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="297"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="18" label="242">
+        <attvalues>
+          <attvalue for="att1" value="242"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Boer"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1862-12-28"/>
+          <attvalue for="att6" value="Sneek"/>
+          <attvalue for="att7" value="11421"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Friesland"/>
+          <attvalue for="att11" value="noord"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="5"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7.6"/>
+          <attvalue for="att36" value="6"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="2e Zuidpolderstraat 1"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="ons doel en streven"/>
+          <attvalue for="att42" value="198"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="19" label="247">
+        <attvalues>
+          <attvalue for="att1" value="247"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Bos"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1858-01-21"/>
+          <attvalue for="att6" value="Joure"/>
+          <attvalue for="att7" value="10022"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Friesland"/>
+          <attvalue for="att11" value="noord"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="9"/>
+          <attvalue for="att33" value="5"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="6.6"/>
+          <attvalue for="att36" value="6"/>
+          <attvalue for="att37" value="leidse buurt"/>
+          <attvalue for="att38" value="Eendrachtstraat 3"/>
+          <attvalue for="att39" value="4"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1743"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="20" label="273">
+        <attvalues>
+          <attvalue for="att1" value="273"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Lieshout"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1867-03-06"/>
+          <attvalue for="att6" value="Haarl'liede"/>
+          <attvalue for="att7" value="10508"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="36"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="5"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.8"/>
+          <attvalue for="att36" value="6"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Camphuysstraat 8"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1144"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="21" label="283">
+        <attvalues>
+          <attvalue for="att1" value="283"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Os"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1865-05-12"/>
+          <attvalue for="att6" value="Tiel"/>
+          <attvalue for="att7" value="10027"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="37"/>
+          <attvalue for="att10" value="Gelderland"/>
+          <attvalue for="att11" value="oost"/>
+          <attvalue for="att12" value="zuidoost"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="4.5"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 16"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="22" label="298">
+        <attvalues>
+          <attvalue for="att1" value="298"/>
+          <attvalue for="att2" value="20"/>
+          <attvalue for="att3" value="Sillevis"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1870-12-06"/>
+          <attvalue for="att6" value="Den Haag"/>
+          <attvalue for="att7" value="11434"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="32"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="4"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="2e Zuidpolderstraat 32"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="ons doel en streven"/>
+          <attvalue for="att42"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="23" label="311">
+        <attvalues>
+          <attvalue for="att1" value="311"/>
+          <attvalue for="att2" value="10"/>
+          <attvalue for="att3" value="Heuvel"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1872-06-18"/>
+          <attvalue for="att6" value="Helder"/>
+          <attvalue for="att7" value="10285"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="30"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="8"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="kamp"/>
+          <attvalue for="att38" value="Essenstraat 31ben"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="847"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="24" label="359">
+        <attvalues>
+          <attvalue for="att1" value="359"/>
+          <attvalue for="att2" value="27.5"/>
+          <attvalue for="att3" value="Louwerenburg"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1877-03-09"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="26"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14"/>
+          <attvalue for="att15" value="zoon"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="5"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="O"/>
+          <attvalue for="att31" value="0"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="0"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 47"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="125"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="25" label="412">
+        <attvalues>
+          <attvalue for="att1" value="412"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Horeman"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1871-08-07"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="31"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Locomotiefbankwerkerij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.91470588235294"/>
+          <attvalue for="att20" value=""/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3.75"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Kerkhofstraat 2"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="356"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="26" label="45">
+        <attvalues>
+          <attvalue for="att1" value="45"/>
+          <attvalue for="att2" value="10"/>
+          <attvalue for="att3" value="Bos"/>
+          <attvalue for="att4" value="voorslaander"/>
+          <attvalue for="att5" value="1867-10-14"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="35"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Smederij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.48"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="17"/>
+          <attvalue for="att24" value="83190"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="831"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="11"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Teylerstraat 27"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="246"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="27" label="467">
+        <attvalues>
+          <attvalue for="att1" value="467"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Pull"/>
+          <attvalue for="att4" value="draaier"/>
+          <attvalue for="att5" value="1860-01-11"/>
+          <attvalue for="att6" value="Utrecht"/>
+          <attvalue for="att7" value="10722"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="43"/>
+          <attvalue for="att10" value="Utrecht"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="650"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="83320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="833"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomervaart 18b"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="765"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="28" label="472">
+        <attvalues>
+          <attvalue for="att1" value="472"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Takes"/>
+          <attvalue for="att4" value="draaier"/>
+          <attvalue for="att5" value="1858-03-26"/>
+          <attvalue for="att6" value="Amsterdam"/>
+          <attvalue for="att7" value="11150"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.85"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="83320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="833"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="11.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="A.L. Dyserinckstraat 37"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="300"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="29" label="473">
+        <attvalues>
+          <attvalue for="att1" value="473"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Schaap"/>
+          <attvalue for="att4" value="draaier"/>
+          <attvalue for="att5" value="1847-01-20"/>
+          <attvalue for="att6" value="Rotterdam"/>
+          <attvalue for="att7" value="10345"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="56"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.85"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="83320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="833"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="11.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 128"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="379"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="30" label="52">
+        <attvalues>
+          <attvalue for="att1" value="52"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Roelofs"/>
+          <attvalue for="att4" value="voorslaander"/>
+          <attvalue for="att5" value="1874-02-21"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="29"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Smederij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.48"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83190"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="831"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="1"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Voortingstraat 13"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1164"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="31" label="567">
+        <attvalues>
+          <attvalue for="att1" value="567"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Dortmundt"/>
+          <attvalue for="att4" value="draaier"/>
+          <attvalue for="att5" value="1873-03-17"/>
+          <attvalue for="att6" value="Rotterdam"/>
+          <attvalue for="att7" value="10345"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="30"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Nieuwe_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="83320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="833"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="6"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.83333333333333"/>
+          <attvalue for="att36" value="7"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 23"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="32" label="573">
+        <attvalues>
+          <attvalue for="att1" value="573"/>
+          <attvalue for="att2" value="5"/>
+          <attvalue for="att3" value="Linden"/>
+          <attvalue for="att4" value="schaver"/>
+          <attvalue for="att5" value="1870-12-13"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="32"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Nieuwe_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.83333333333333"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="83440"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="834"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 121"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="297"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="33" label="590">
+        <attvalues>
+          <attvalue for="att1" value="590"/>
+          <attvalue for="att2" value="15"/>
+          <attvalue for="att3" value="Brussel"/>
+          <attvalue for="att4" value="draaier"/>
+          <attvalue for="att5" value="1875-03-14"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="28"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Nieuwe_Draaierij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="83320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="833"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="kamp"/>
+          <attvalue for="att38" value="Patientiestraat 9ben"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="998"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="3"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="34" label="623">
+        <attvalues>
+          <attvalue for="att1" value="623"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Oostwal"/>
+          <attvalue for="att4" value="kopergieter"/>
+          <attvalue for="att5" value="1861-05-02"/>
+          <attvalue for="att6" value="Kampen"/>
+          <attvalue for="att7" value="10253"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="41"/>
+          <attvalue for="att10" value="Overijssel"/>
+          <attvalue for="att11" value="oost"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Slagerij_gieterij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="16"/>
+          <attvalue for="att24" value="72420"/>
+          <attvalue for="att25" value="7"/>
+          <attvalue for="att26" value="72"/>
+          <attvalue for="att27" value="724"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="9"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8.5"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamstraat 3ij"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="35" label="670">
+        <attvalues>
+          <attvalue for="att1" value="670"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Bos"/>
+          <attvalue for="att4" value="blikslager"/>
+          <attvalue for="att5" value="1876-02-28"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="27"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Slagerij_gieterij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="87340"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="87"/>
+          <attvalue for="att27" value="873"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 104"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="379"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="36" label="676">
+        <attvalues>
+          <attvalue for="att1" value="676"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Brakel"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1836-04-26"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="66"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="2.1"/>
+          <attvalue for="att19" value="2.1"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="900"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="42"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="stationsbuurt"/>
+          <attvalue for="att38" value="Parklaan 102"/>
+          <attvalue for="att39" value="6"/>
+          <attvalue for="att40" value="2"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="863"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="37" label="682">
+        <attvalues>
+          <attvalue for="att1" value="682"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Scheen"/>
+          <attvalue for="att4" value="modelmaker"/>
+          <attvalue for="att5" value="1868-01-18"/>
+          <attvalue for="att6" value="Amsterdam"/>
+          <attvalue for="att7" value="11150"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="35"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="2.2"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="17"/>
+          <attvalue for="att24" value="72500"/>
+          <attvalue for="att25" value="7"/>
+          <attvalue for="att26" value="72"/>
+          <attvalue for="att27" value="725"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="6"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Linschotenstraat 20"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="960"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="38" label="683">
+        <attvalues>
+          <attvalue for="att1" value="683"/>
+          <attvalue for="att2" value="5"/>
+          <attvalue for="att3" value="Kort"/>
+          <attvalue for="att4" value="modelmaker"/>
+          <attvalue for="att5" value="1858-12-19"/>
+          <attvalue for="att6" value="Bergen op Zoom"/>
+          <attvalue for="att7" value="11037"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="44"/>
+          <attvalue for="att10" value="Noord-Brabant"/>
+          <attvalue for="att11" value="zuid"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="2.2"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="72500"/>
+          <attvalue for="att25" value="7"/>
+          <attvalue for="att26" value="72"/>
+          <attvalue for="att27" value="725"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Korte Heerenvest 1rd"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="583"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="39" label="689">
+        <attvalues>
+          <attvalue for="att1" value="689"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Vring"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1864-11-04"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="38"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Teylerstraat 35"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="246"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="40" label="692">
+        <attvalues>
+          <attvalue for="att1" value="692"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Remmé"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1852-10-22"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="50"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="33"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="11"/>
+          <attvalue for="att33" value="6"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8.16666666666667"/>
+          <attvalue for="att36" value="7"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 129b"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="297"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="41" label="7">
+        <attvalues>
+          <attvalue for="att1" value="7"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Knape"/>
+          <attvalue for="att4" value="vuurwerker"/>
+          <attvalue for="att5" value="1848-03-21"/>
+          <attvalue for="att6" value="Heemstede"/>
+          <attvalue for="att7" value="11288"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="55"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Oude_Smederij"/>
+          <attvalue for="att17" value="Locomotieven"/>
+          <attvalue for="att18" value="2"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="83110"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="831"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="10"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="12"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 31"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="42" label="705">
+        <attvalues>
+          <attvalue for="att1" value="705"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Westra"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1864-06-08"/>
+          <attvalue for="att6" value="Leeuwarden"/>
+          <attvalue for="att7" value="11228"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="38"/>
+          <attvalue for="att10" value="Friesland"/>
+          <attvalue for="att11" value="noord"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="18"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamstraat 33"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="186"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="43" label="707">
+        <attvalues>
+          <attvalue for="att1" value="707"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Jansen"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1871-11-05"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="31"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="17"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="2.33333333333333"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 86"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="333"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="44" label="713">
+        <attvalues>
+          <attvalue for="att1" value="713"/>
+          <attvalue for="att2" value="30.5"/>
+          <attvalue for="att3" value="Lunteren"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1869-02-10"/>
+          <attvalue for="att6" value="de Bilt"/>
+          <attvalue for="att7" value="10168"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="34"/>
+          <attvalue for="att10" value="Utrecht"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="6.33333333333333"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Rozenprieelstraat 69"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1122"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="45" label="717">
+        <attvalues>
+          <attvalue for="att1" value="717"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Pek"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1870-05-10"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="32"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="900"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="12"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="burgwal"/>
+          <attvalue for="att38" value="Spaarnwouderstraat 45ben"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="196"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="46" label="724">
+        <attvalues>
+          <attvalue for="att1" value="724"/>
+          <attvalue for="att2" value="31.5"/>
+          <attvalue for="att3" value="Boeree"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1868-10-26"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="34"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.82142857142857"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="650"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Zuider-Buiten Spaarne 104"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1306"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="47" label="782">
+        <attvalues>
+          <attvalue for="att1" value="782"/>
+          <attvalue for="att2" value="15"/>
+          <attvalue for="att3" value="Lammertsma"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1862-08-23"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="12"/>
+          <attvalue for="att33" value="7"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="6.28571428571429"/>
+          <attvalue for="att36" value="8"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 72"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="48" label="785">
+        <attvalues>
+          <attvalue for="att1" value="785"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Lust"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1865-07-19"/>
+          <attvalue for="att6" value="Wijdenes"/>
+          <attvalue for="att7" value="10631"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="37"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="2"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="A.L. Dyserinckstraat 56"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="300"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="49" label="794">
+        <attvalues>
+          <attvalue for="att1" value="794"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Ditmar"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1867-09-09"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="35"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81538461538462"/>
+          <attvalue for="att20" value=""/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="4.66666666666667"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zuidpolderstraat 129"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="343"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="50" label="798">
+        <attvalues>
+          <attvalue for="att1" value="798"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Boerkoel"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1860-08-31"/>
+          <attvalue for="att6" value="Bloemendaal"/>
+          <attvalue for="att7" value="10850"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="42"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="gk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81538461538462"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="9"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="6"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="4.5"/>
+          <attvalue for="att36" value="7"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Linschotenstraat 60"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="985"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="51" label="805">
+        <attvalues>
+          <attvalue for="att1" value="805"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Jansen"/>
+          <attvalue for="att4" value="wagenmaker"/>
+          <attvalue for="att5" value="1872-04-26"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="30"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Wagenmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81538461538462"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="4"/>
+          <attvalue for="att24" value="81925"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="81"/>
+          <attvalue for="att27" value="819"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="3.25"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="vijfhoek"/>
+          <attvalue for="att38" value="Luitesteeg 21"/>
+          <attvalue for="att39" value="4"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1307"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="52" label="851">
+        <attvalues>
+          <attvalue for="att1" value="851"/>
+          <attvalue for="att2" value="20"/>
+          <attvalue for="att3" value="Leeuwen"/>
+          <attvalue for="att4" value="zadelmaker"/>
+          <attvalue for="att5" value="1867-06-20"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="35"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Zeil_zadelmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81818181818182"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="9"/>
+          <attvalue for="att24" value="80320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="80"/>
+          <attvalue for="att27" value="803"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="4.66666666666667"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomervaart 18f"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="765"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="53" label="865">
+        <attvalues>
+          <attvalue for="att1" value="865"/>
+          <attvalue for="att2" value="25"/>
+          <attvalue for="att3" value="Blokker"/>
+          <attvalue for="att4" value="zadelmaker"/>
+          <attvalue for="att5" value="1859-09-21"/>
+          <attvalue for="att6" value="Bergen NH"/>
+          <attvalue for="att7" value="11424"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="43"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Zeil_zadelmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81818181818182"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="18"/>
+          <attvalue for="att24" value="80320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="80"/>
+          <attvalue for="att27" value="803"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="11"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 18"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="54" label="867">
+        <attvalues>
+          <attvalue for="att1" value="867"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Gosewehr"/>
+          <attvalue for="att4" value="zadelmaker"/>
+          <attvalue for="att5" value="1875-01-17"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="28"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Zeil_zadelmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81818181818182"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="11"/>
+          <attvalue for="att24" value="80320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="80"/>
+          <attvalue for="att27" value="803"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="2"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="schoten"/>
+          <attvalue for="att38" value=""/>
+          <attvalue for="att39" value="0"/>
+          <attvalue for="att40" value="0"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="55" label="874">
+        <attvalues>
+          <attvalue for="att1" value="874"/>
+          <attvalue for="att2" value="20"/>
+          <attvalue for="att3" value="Zwart"/>
+          <attvalue for="att4" value="zadelmaker"/>
+          <attvalue for="att5" value="1877-02-09"/>
+          <attvalue for="att6" value="s Gravenhage"/>
+          <attvalue for="att7" value="11434"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="26"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Zeil_zadelmakerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.81818181818182"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="2"/>
+          <attvalue for="att24" value="80320"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="80"/>
+          <attvalue for="att27" value="803"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="3"/>
+          <attvalue for="att33" value="1"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="0"/>
+          <attvalue for="att36" value="2"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Heerensingel 129C"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="297"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="56" label="897">
+        <attvalues>
+          <attvalue for="att1" value="897"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Vreeden"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1859-06-21"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="43"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="20"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamstraat 46"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="186"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="57" label="899">
+        <attvalues>
+          <attvalue for="att1" value="899"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Bottenburg"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1854-11-23"/>
+          <attvalue for="att6" value="Amersfoort"/>
+          <attvalue for="att7" value="10948"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="48"/>
+          <attvalue for="att10" value="Utrecht"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="9.66666666666667"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 58"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="58" label="901">
+        <attvalues>
+          <attvalue for="att1" value="901"/>
+          <attvalue for="att2" value="2.5"/>
+          <attvalue for="att3" value="Kemp"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1857-04-20"/>
+          <attvalue for="att6" value="Leeuwarden"/>
+          <attvalue for="att7" value="11228"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="45"/>
+          <attvalue for="att10" value="Friesland"/>
+          <attvalue for="att11" value="noord"/>
+          <attvalue for="att12" value="noordoost"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Teylerstraat 23"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="186"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="59" label="903">
+        <attvalues>
+          <attvalue for="att1" value="903"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Kerkhoff"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1863-06-26"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="r"/>
+          <attvalue for="att9" value="39"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.8"/>
+          <attvalue for="att19" value="1.8"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="6"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.16666666666667"/>
+          <attvalue for="att36" value="7"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 67"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="TRUE"/>
+        </attvalues>
+      </node>
+      <node id="60" label="907">
+        <attvalues>
+          <attvalue for="att1" value="907"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Puttenaar"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1861-03-31"/>
+          <attvalue for="att6" value="Alkmaar"/>
+          <attvalue for="att7" value="10527"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="42"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.83125"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="15"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="2"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Zomerstraat 29"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value="nut door spaarzaamheid"/>
+          <attvalue for="att42" value="810"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="61" label="910">
+        <attvalues>
+          <attvalue for="att1" value="910"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Rijk"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1868-02-28"/>
+          <attvalue for="att6" value="Heerhugowaard"/>
+          <attvalue for="att7" value="10752"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="35"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="noordwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.83125"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21"/>
+          <attvalue for="att22" value="0"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="6"/>
+          <attvalue for="att33" value="4"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.75"/>
+          <attvalue for="att36" value="5"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamsche Vaart 48"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="177"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="62" label="911">
+        <attvalues>
+          <attvalue for="att1" value="911"/>
+          <attvalue for="att2" value="0"/>
+          <attvalue for="att3" value="Haeseker"/>
+          <attvalue for="att4" value="schilder"/>
+          <attvalue for="att5" value="1862-08-08"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="g"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Schilderswinkel"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="1.83125"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="93190"/>
+          <attvalue for="att25" value="9"/>
+          <attvalue for="att26" value="93"/>
+          <attvalue for="att27" value="931"/>
+          <attvalue for="att28" value="9"/>
+          <attvalue for="att29" value="2"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="5"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamstraat 39"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="186"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="TRUE"/>
+          <attvalue for="att46" value="TRUE"/>
+          <attvalue for="att47" value="TRUE"/>
+          <attvalue for="att48" value="TRUE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="TRUE"/>
+          <attvalue for="att52" value="FALSE"/>
+        </attvalues>
+      </node>
+      <node id="63" label="982">
+        <attvalues>
+          <attvalue for="att1" value="982"/>
+          <attvalue for="att2" value="34.5"/>
+          <attvalue for="att3" value="Arnold"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1860-02-03"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="43"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="vrijz"/>
+          <attvalue for="att14" value="TRUE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="2"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="21"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="3"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="8.66666666666667"/>
+          <attvalue for="att36" value="4"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Teylerstraat 48"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="246"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="64" label="983">
+        <attvalues>
+          <attvalue for="att1" value="983"/>
+          <attvalue for="att2" value="27.5"/>
+          <attvalue for="att3" value="Schaar"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1861-01-11"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="42"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="550"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="19"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="13"/>
+          <attvalue for="att33" value="8"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="5.5"/>
+          <attvalue for="att36" value="9"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Amsterdamstraat 50"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="186"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="65" label="985">
+        <attvalues>
+          <attvalue for="att1" value="985"/>
+          <attvalue for="att2" value="24.5"/>
+          <attvalue for="att3" value="Kerkhoven"/>
+          <attvalue for="att4" value="ploegbaas"/>
+          <attvalue for="att5" value="1862-05-14"/>
+          <attvalue for="att6" value="Leiden"/>
+          <attvalue for="att7" value="10702"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="40"/>
+          <attvalue for="att10" value="Zuid-Holland"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18"/>
+          <attvalue for="att19" value="2"/>
+          <attvalue for="att20"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="14"/>
+          <attvalue for="att24" value="22650"/>
+          <attvalue for="att25" value="2"/>
+          <attvalue for="att26" value="22"/>
+          <attvalue for="att27" value="226"/>
+          <attvalue for="att28" value="6"/>
+          <attvalue for="att29" value="42"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="7"/>
+          <attvalue for="att33" value="5"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="7.8"/>
+          <attvalue for="att36" value="6"/>
+          <attvalue for="att37" value="rozenprieel"/>
+          <attvalue for="att38" value="Barendsestraat 52"/>
+          <attvalue for="att39" value="3"/>
+          <attvalue for="att40" value="3"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="1041"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="66" label="988">
+        <attvalues>
+          <attvalue for="att1" value="988"/>
+          <attvalue for="att2" value="30"/>
+          <attvalue for="att3" value="Rosenberg"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1852-02-22"/>
+          <attvalue for="att6" value="Utrecht"/>
+          <attvalue for="att7" value="10722"/>
+          <attvalue for="att8" value="b"/>
+          <attvalue for="att9" value="51"/>
+          <attvalue for="att10" value="Utrecht"/>
+          <attvalue for="att11" value="west"/>
+          <attvalue for="att12" value="zuidwest"/>
+          <attvalue for="att13" value="rk"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="26"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="4"/>
+          <attvalue for="att33" value="0"/>
+          <attvalue for="att34" value="0"/>
+          <attvalue for="att35"/>
+          <attvalue for="att36" value="1"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 69"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="FALSE"/>
+          <attvalue for="att44" value="FALSE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="0"/>
+          <attvalue for="att50" value="FALSE"/>
+          <attvalue for="att51"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+      <node id="67" label="989">
+        <attvalues>
+          <attvalue for="att1" value="989"/>
+          <attvalue for="att2" value="19.5"/>
+          <attvalue for="att3" value="Dankelman"/>
+          <attvalue for="att4" value="bankwerker"/>
+          <attvalue for="att5" value="1858-11-10"/>
+          <attvalue for="att6" value="Haarlem"/>
+          <attvalue for="att7" value="10357"/>
+          <attvalue for="att8" value="w"/>
+          <attvalue for="att9" value="44"/>
+          <attvalue for="att10" value="Noord-Holland"/>
+          <attvalue for="att11" value="haarlem_eo"/>
+          <attvalue for="att12" value="haarlem_eo"/>
+          <attvalue for="att13" value="nh"/>
+          <attvalue for="att14" value="FALSE"/>
+          <attvalue for="att15" value="hoofd"/>
+          <attvalue for="att16" value="Rijtuigbankwerkerij"/>
+          <attvalue for="att17" value="Rijtuigen en Wagens"/>
+          <attvalue for="att18" value="1.9"/>
+          <attvalue for="att19" value="1.9"/>
+          <attvalue for="att20" value="dagloon"/>
+          <attvalue for="att21" value="600"/>
+          <attvalue for="att22" value="1"/>
+          <attvalue for="att23" value="22"/>
+          <attvalue for="att24" value="83210"/>
+          <attvalue for="att25" value="8"/>
+          <attvalue for="att26" value="83"/>
+          <attvalue for="att27" value="832"/>
+          <attvalue for="att28" value="7"/>
+          <attvalue for="att29" value="3"/>
+          <attvalue for="att30" value="H"/>
+          <attvalue for="att31" value="1"/>
+          <attvalue for="att32" value="8"/>
+          <attvalue for="att33" value="2"/>
+          <attvalue for="att34" value="1"/>
+          <attvalue for="att35" value="11.5"/>
+          <attvalue for="att36" value="3"/>
+          <attvalue for="att37" value="amsterdamse buurt"/>
+          <attvalue for="att38" value="Vooruitgangstraat 68"/>
+          <attvalue for="att39" value="1"/>
+          <attvalue for="att40" value="1"/>
+          <attvalue for="att41" value=""/>
+          <attvalue for="att42" value="275"/>
+          <attvalue for="att43" value="TRUE"/>
+          <attvalue for="att44" value="TRUE"/>
+          <attvalue for="att45" value="FALSE"/>
+          <attvalue for="att46" value="FALSE"/>
+          <attvalue for="att47" value="FALSE"/>
+          <attvalue for="att48" value="FALSE"/>
+          <attvalue for="att49" value="1"/>
+          <attvalue for="att50" value="TRUE"/>
+          <attvalue for="att51" value="FALSE"/>
+          <attvalue for="att52"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="44" target="4" weight="1"/>
+      <edge id="1" source="50" target="44" weight="1"/>
+      <edge id="2" source="65" target="44" weight="1"/>
+      <edge id="3" source="30" target="4" weight="1"/>
+      <edge id="4" source="3" target="4" weight="1"/>
+      <edge id="5" source="65" target="10" weight="1"/>
+      <edge id="6" source="65" target="36" weight="1"/>
+      <edge id="7" source="14" target="43" weight="1"/>
+      <edge id="8" source="14" target="67" weight="1"/>
+      <edge id="9" source="14" target="7" weight="1"/>
+      <edge id="10" source="43" target="67" weight="1"/>
+      <edge id="11" source="7" target="43" weight="1"/>
+      <edge id="12" source="7" target="67" weight="1"/>
+      <edge id="13" source="67" target="3" weight="1"/>
+      <edge id="14" source="55" target="67" weight="1"/>
+      <edge id="15" source="47" target="67" weight="1"/>
+      <edge id="16" source="67" target="1" weight="1"/>
+      <edge id="17" source="49" target="29" weight="1"/>
+      <edge id="18" source="17" target="61" weight="1"/>
+      <edge id="19" source="28" target="62" weight="1"/>
+      <edge id="20" source="62" target="60" weight="1"/>
+      <edge id="21" source="13" target="27" weight="1"/>
+      <edge id="22" source="53" target="13" weight="1"/>
+      <edge id="23" source="13" target="8" weight="1"/>
+      <edge id="24" source="53" target="27" weight="1"/>
+      <edge id="25" source="27" target="8" weight="1"/>
+      <edge id="26" source="53" target="8" weight="1"/>
+      <edge id="27" source="30" target="3" weight="1"/>
+      <edge id="28" source="30" target="19" weight="1"/>
+      <edge id="29" source="42" target="30" weight="1"/>
+      <edge id="30" source="55" target="3" weight="1"/>
+      <edge id="31" source="47" target="3" weight="1"/>
+      <edge id="32" source="3" target="1" weight="1"/>
+      <edge id="33" source="12" target="22" weight="1"/>
+      <edge id="34" source="40" target="32" weight="1"/>
+      <edge id="35" source="32" target="6" weight="1"/>
+      <edge id="36" source="40" target="6" weight="1"/>
+      <edge id="37" source="16" target="35" weight="1"/>
+      <edge id="38" source="51" target="24" weight="1"/>
+      <edge id="39" source="20" target="5" weight="1"/>
+      <edge id="40" source="38" target="56" weight="1"/>
+      <edge id="41" source="38" target="66" weight="1"/>
+      <edge id="42" source="66" target="56" weight="1"/>
+      <edge id="43" source="34" target="56" weight="1"/>
+      <edge id="44" source="45" target="56" weight="1"/>
+      <edge id="45" source="55" target="56" weight="1"/>
+      <edge id="46" source="58" target="56" weight="1"/>
+      <edge id="47" source="64" target="56" weight="1"/>
+      <edge id="48" source="41" target="26" weight="1"/>
+      <edge id="49" source="41" target="9" weight="1"/>
+      <edge id="50" source="26" target="9" weight="1"/>
+      <edge id="51" source="23" target="11" weight="1"/>
+      <edge id="52" source="37" target="11" weight="1"/>
+      <edge id="53" source="48" target="11" weight="1"/>
+      <edge id="54" source="37" target="23" weight="1"/>
+      <edge id="55" source="48" target="23" weight="1"/>
+      <edge id="56" source="37" target="48" weight="1"/>
+      <edge id="57" source="10" target="36" weight="1"/>
+      <edge id="58" source="15" target="21" weight="1"/>
+      <edge id="59" source="15" target="57" weight="1"/>
+      <edge id="60" source="21" target="57" weight="1"/>
+      <edge id="61" source="42" target="19" weight="1"/>
+      <edge id="62" source="42" target="59" weight="1"/>
+      <edge id="63" source="31" target="33" weight="1"/>
+      <edge id="64" source="39" target="31" weight="1"/>
+      <edge id="65" source="39" target="33" weight="1"/>
+      <edge id="66" source="63" target="46" weight="1"/>
+      <edge id="67" source="34" target="45" weight="1"/>
+      <edge id="68" source="34" target="55" weight="1"/>
+      <edge id="69" source="34" target="58" weight="1"/>
+      <edge id="70" source="64" target="34" weight="1"/>
+      <edge id="71" source="55" target="45" weight="1"/>
+      <edge id="72" source="45" target="58" weight="1"/>
+      <edge id="73" source="64" target="45" weight="1"/>
+      <edge id="74" source="55" target="58" weight="1"/>
+      <edge id="75" source="64" target="55" weight="1"/>
+      <edge id="76" source="55" target="47" weight="1"/>
+      <edge id="77" source="55" target="1" weight="1"/>
+      <edge id="78" source="64" target="58" weight="1"/>
+      <edge id="79" source="25" target="18" weight="1"/>
+      <edge id="80" source="18" target="2" weight="1"/>
+      <edge id="81" source="47" target="1" weight="1"/>
+      <edge id="82" source="52" target="54" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
+

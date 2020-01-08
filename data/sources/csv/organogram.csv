@@ -1,0 +1,27 @@
+werkplaatsnr,werkplaats,afdeling,stelplaats,assistent-opzichter,opzichter
+7,Locomotiefbankwerkerij,Locomotieven,Stelplaats III,De Wilde,Cramer
+7,Locomotiefbankwerkerij,Locomotieven,nvt,Pigge,Cramer
+7,Locomotiefbankwerkerij,Locomotieven,Stelplaats II,Van der Steeg,Cramer
+7,Locomotiefbankwerkerij,Locomotieven,Stelplaats III,Van Zonneveld,Cramer
+7,Locomotiefbankwerkerij,Locomotieven,Stelplaats I,Wille,Cramer
+8,Poetsers,Locomotieven,nvt,,Cramer
+9,Oude_Draaierij,Locomotieven,nvt,Van der Waals,Cramer
+10,Nieuwe_Draaierij,Locomotieven,nvt,Ten Hove,Cramer
+11,Kopergieterij,Locomotieven,nvt,Van Muijden,Cramer
+12,Compositiegieterij,Locomotieven,nvt,Van Muijden,Cramer
+13,Koperslagerij,Locomotieven,nvt,Van Muijden,Cramer
+14,Blikslagerij,Locomotieven,nvt,Van Muijden,Cramer
+1,Oude_Smederij,Locomotieven,nvt,Nederlof,Riphagen
+2,Nieuwe_Smederij,Locomotieven,nvt,Nederlof,Riphagen
+0,Ketelmakerij,Locomotieven,nvt,Muller,
+15,Rijtuigmakerij,Rijtuigen en Wagens,nvt,Meijer,Godvliet
+16,Wagenmakerij,Rijtuigen en Wagens,nvt,Hulshoff,Godvliet
+17,Zadelmakerij,Rijtuigen en Wagens,nvt,Leenart,Godvliet
+18,Schilderswinkel,Rijtuigen en Wagens,nvt,Willemsen,Godvliet
+19,Rijtuigpoetsers,Rijtuigen en Wagens,nvt,,Godvliet
+20,Rijtuigbankwerkerij,Rijtuigen en Wagens,nvt,Van Dijk,Godvliet
+21,Wagenlichterij,Rijtuigen en Wagens,nvt,Van den Bosch,Godvliet
+3,Wielendraaierij,Rijtuigen en Wagens,nvt,Van Eede,Riphagen
+4,Houtloods,Rijtuigen en Wagens,nvt,,Riphagen
+5,Balkenzagerij,Rijtuigen en Wagens,nvt,,Riphagen
+6,Zeilmakerij,Rijtuigen en Wagens,nvt,Leenart,Riphagen

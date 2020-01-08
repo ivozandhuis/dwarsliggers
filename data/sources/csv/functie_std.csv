@@ -1,0 +1,76 @@
+nr,werkplaats_org,functie,freq,afdeling_org,afdeling,functiegroep,HISCO
+6,Compositiegieterij,ploegbaas,1,Locomotieven,Locomotieven,Koper- en composietgieters,22650
+7,Houtloods,houtbaas,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,22650
+14,Locomotiefbankwerkerij,ploegbaas,13,Locomotieven,Locomotieven,Machine-bankwerkers,22650
+16,Locomotiefbankwerkerij,wnd_ass._Opz._Op_proef,1,Locomotieven,Locomotieven,Machine-bankwerkers,22650
+26,Nieuwe_Smederij,ploegbaas,1,Locomotieven,Locomotieven,Vuurwerkers,22650
+33,Oude_Draaierij,ploegbaas,1,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",22650
+40,Oude_Smederij,ploegbaas,1,Locomotieven,Locomotieven,Vuurwerkers,22650
+44,Poetsers,ploegbaas,1,Locomotieven,Locomotieven,Locomotiefpoetsers,22650
+50,Rijtuigbankwerkerij,ploegbaas,8,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagen-bankwerkers,22650
+55,Rijtuigmakerij,ploegbaas,5,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,22650
+60,Schilderswinkel,ploegbaas,5,Rijtuigen en Wagens,Rijtuigen en Wagens,Schilders,22650
+64,Wagenlichterij,ploegbaas,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenlichters,22650
+67,Wagenmakerij,ploegbaas,4,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,22650
+71,Wielendraaierij,ploegbaas,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wielendraaiers en wielbandleggers,22650
+76,Zeilmakerij,ploegbaas,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Dekkleedmakers,22650
+11,Kopergieterij,smelter,1,Locomotieven,Locomotieven,Koper- en composietgieters,72390
+5,Compositiegieterij,comp._Gieter,7,Locomotieven,Locomotieven,Koper- en composietgieters,72420
+10,Kopergieterij,kopergieter,10,Locomotieven,Locomotieven,Koper- en composietgieters,72420
+54,Rijtuigmakerij,modelmaker,6,Locomotieven,Rijtuigen en Wagens,Modelmakers,72500
+9,Kopergieterij,afbramer,1,Locomotieven,Locomotieven,Koper- en composietgieters,72990
+77,Zeilmakerij,zeilmaker,20,Rijtuigen en Wagens,Rijtuigen en Wagens,Dekkleedmakers,79920
+74,Zadelmakerij,haarpluizer,2,Rijtuigen en Wagens,Rijtuigen en Wagens,Zadelmakers,80320
+75,Zadelmakerij,zadelmaker,52,Rijtuigen en Wagens,Rijtuigen en Wagens,Zadelmakers,80320
+3,Balkenzagerij,zager,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,81225
+69,Wagenmakerij,zager,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,81225
+57,Rijtuigmakerij,wagenmaker,81,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,81925
+68,Wagenmakerij,wagenmaker,59,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,81925
+28,Nieuwe_Smederij,vuurwerker,27,Locomotieven,Locomotieven,Vuurwerkers,83110
+43,Oude_Smederij,vuurwerker,32,Locomotieven,Locomotieven,Vuurwerkers,83110
+25,Nieuwe_Smederij,drijver_valhamer,2,Algemene dienst,Locomotieven,Drijvers van val- en stoomhamers,83130
+38,Oude_Smederij,drijver_stoomhamer,2,Algemene dienst,Locomotieven,Drijvers van val- en stoomhamers,83130
+39,Oude_Smederij,drijver_valhamer,1,Algemene dienst,Locomotieven,Drijvers van val- en stoomhamers,83130
+27,Nieuwe_Smederij,voorslaander,26,Locomotieven,Locomotieven,Voorslagers,83190
+42,Oude_Smederij,voorslaander,35,Locomotieven,Locomotieven,Voorslagers,83190
+13,Locomotiefbankwerkerij,bankwerker,212,Locomotieven,Locomotieven,Machine-bankwerkers,83210
+46,Rijtuigbankwerkerij,bankwerker,112,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagen-bankwerkers,83210
+70,Wielendraaierij,bankwerker,2,Rijtuigen en Wagens,Rijtuigen en Wagens,Wielendraaiers en wielbandleggers,83210
+19,Nieuwe_Draaierij,draaier,42,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83320
+31,Oude_Draaierij,draaier,47,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83320
+49,Rijtuigbankwerkerij,draaier,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,83320
+63,Wagenlichterij,draaier,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenlichters,83320
+22,Nieuwe_Draaierij,schaver,8,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83440
+35,Oude_Draaierij,schaver,14,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83440
+52,Rijtuigbankwerkerij,schaver,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,83440
+17,Nieuwe_Draaierij,boorder,5,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83450
+29,Oude_Draaierij,boorder,11,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83450
+47,Rijtuigbankwerkerij,boorder,10,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,83450
+23,Nieuwe_Draaierij,slijper,3,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83465
+36,Oude_Draaierij,slijper,5,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83465
+41,Oude_Smederij,slijper,1,Locomotieven,Locomotieven,Voorslagers,83465
+53,Rijtuigbankwerkerij,zagenvijler,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,83550
+15,Locomotiefbankwerkerij,verpakker,1,Locomotieven,Locomotieven,Machine-bankwerkers,83990
+18,Nieuwe_Draaierij,draadsnijder,1,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+20,Nieuwe_Draaierij,fraizer,8,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+24,Nieuwe_Draaierij,steker,3,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+30,Oude_Draaierij,draadsnijder,6,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+32,Oude_Draaierij,fraizer,1,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+37,Oude_Draaierij,steker,3,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",83990
+48,Rijtuigbankwerkerij,draadsnijder,4,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,83990
+72,Wielendraaierij,wielbandlegger,7,Rijtuigen en Wagens,Rijtuigen en Wagens,Wielendraaiers en wielbandleggers,83990
+73,Wielendraaierij,wielendraaier,29,Rijtuigen en Wagens,Rijtuigen en Wagens,Wielendraaiers en wielbandleggers,83990
+66,Wagenlichterij,wagenlichter,41,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenlichters,84190
+12,Koperslagerij,koperslager,23,Locomotieven,Locomotieven,Koperslagers,87330
+4,Blikslagerij,blikslager,10,Locomotieven,Locomotieven,Blikslagers,87340
+62,Schilderswinkel,schilder,67,Rijtuigen en Wagens,Rijtuigen en Wagens,Schilders,93190
+2,Balkenzagerij,mach._Drijver,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,96100
+21,Nieuwe_Draaierij,poetser,2,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",99910
+34,Oude_Draaierij,poetser,2,Locomotieven,Locomotieven,"Draaiers, boorders, schavers",99910
+45,Poetsers,poetser,40,Locomotieven,Locomotieven,Locomotiefpoetsers,99910
+51,Rijtuigbankwerkerij,poetser,4,Rijtuigen en Wagens,Rijtuigen en Wagens,Draaiers en boorders,99910
+56,Rijtuigmakerij,poetser,1,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenmakers,99910
+58,Rijtuigpoetsers,rijtuigpoetser,15,Rijtuigen en Wagens,Rijtuigen en Wagens,Rijtuigpoetser en -poetsters,99910
+59,Rijtuigpoetsers,rijtuigpoetster,3,Rijtuigen en Wagens,Rijtuigen en Wagens,Rijtuigpoetser en -poetsters,99910
+61,Schilderswinkel,poetser,2,Rijtuigen en Wagens,Rijtuigen en Wagens,Schilders,99910
+65,Wagenlichterij,poetser,2,Rijtuigen en Wagens,Rijtuigen en Wagens,Wagenlichters,99910

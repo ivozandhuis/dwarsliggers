@@ -1,0 +1,1164 @@
+my_medewerkersnummer,werkplaats,imagenummer,filename,kleur,naam,functie,ma_vm_aantal_uur,ma_vm_reden,ma_nm_aantal_uur,ma_nm_reden,di_vm_aantal_uur,di_vm_reden,di_nm_aantal_uur,di_nm_reden,wo_vm_aantal_uur,wo_vm_reden,wo_nm_aantal_uur,wo_nm_reden,do_vm_aangemeld,do_nm_aangemeld,later_aangemeld,ontslagen,opnieuw_in_dienst,datum_in_diensttreding,dienstjaren,huwelijkse_staat,ouderdom,aanmerkingen
+1,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Arnold, J.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+2,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Hilbers, G.H.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+3,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Drost, G.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,17,gehuwd,44,20 april opnieuw in dienst getreden
+4,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Booltink, R.H.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+5,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Onland, A.J.G.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+6,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Huizen, J.M. Van",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+7,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Knape, R.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+8,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Arum, C. van",vuurwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+9,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Vrij, G.",vuurwerker,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,14,gehuwd,37,20 april opnieuw in dienst getreden
+10,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Maaker, L. de",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+11,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Klumper, A.",vuurwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+12,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Lugtig, C.",vuurwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+13,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Putten, L. v.d.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,8,gehuwd,46,20 april opnieuw in dienst getreden
+14,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Velthuis, J. te",vuurwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+15,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Deersen, H.M.A. v.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,gehuwd,38,
+16,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Sluis, B. v.d.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-06-30,0,gehuwd,30,20 april opnieuw in dienst getreden
+17,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Koppen, P.",vuurwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+18,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Jansen, P.J.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+19,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Segaar, J.",slijper,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,18,gehuwd,53,20 april opnieuw in dienst getreden
+20,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Buse, H.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,gehuwd,31,20 april opnieuw in dienst getreden
+21,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Bakker, M.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+22,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Heezik, J. van",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,gehuwd,29,
+23,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Wel, K. van",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,32,20 april opnieuw in dienst getreden
+24,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Radder, K.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,gehuwd,29,
+25,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Lugt, Jr., H. De",vuurwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+26,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Schagen, A.",vuurwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+27,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Colpa, W.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,28,20 april opnieuw in dienst getreden
+28,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Weijer, H. de",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,gehuwd,26,
+29,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Eckhardt, J.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+30,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Face, A.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-05-26,0,ongehuwd,25,20 april opnieuw in dienst getreden
+31,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Bank, H.",vuurwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+32,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Vis, P.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,27,20 april opnieuw in dienst getreden
+33,Oude_Smederij,49,NL-UtHUA_A195420_000049,w,"Surendonk, A.",vuurwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+34,Oude_Smederij,49,NL-UtHUA_A195420_000049,g,"Lans, L.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,gehuwd,23,20 april opnieuw in dienst getreden
+35,Oude_Smederij,49,NL-UtHUA_A195420_000049,b,"Jong, D. de",drijver_stoomhamer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+36,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Graaff, H.A. De",drijver_stoomhamer,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,13,gehuwd,39,
+37,Oude_Smederij,49,NL-UtHUA_A195420_000049,r,"Maas, J.F.",drijver_valhamer,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,33,
+38,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Faassen, A.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+39,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Franken, H. van",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+40,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Klaassen, E.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,49,20 april opnieuw in dienst getreden
+41,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Deursen, M. van",voorslaander,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+42,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Bijster, J.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,43,20 april opnieuw in dienst getreden
+43,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Andriessen, J.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+44,Oude_Smederij,50,NL-UtHUA_A195420_000050,r,"Robert, H.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,19,gehuwd,43,
+45,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Bos, D.",voorslaander,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+46,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Koppen, J.F.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,49,20 april opnieuw in dienst getreden
+47,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Kok, J.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+48,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Kruijd, W.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+49,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Wouters, A.H.",voorslaander,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+50,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Pieters, J.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,30,20 april opnieuw in dienst getreden
+51,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Korremans, C.J.",voorslaander,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,12,gehuwd,41,20 april opnieuw in dienst getreden
+52,Oude_Smederij,50,NL-UtHUA_A195420_000050,r,"Roelofs, M.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,29,"had verlof, meldde zich schriftelijk als staker"
+53,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Ploeg, A.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,30,20 april opnieuw in dienst getreden
+54,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Bulters, B.J.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+55,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Geeraets, J.F.H.X.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,36,20 april opnieuw in dienst getreden
+56,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Groenendaal, J.",voorslaander,0,,0,,0,,0,,0,,2,,,,,,,,,,,
+57,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Bos, B.N.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,gehuwd,33,20 april opnieuw in dienst getreden
+58,Oude_Smederij,50,NL-UtHUA_A195420_000050,r,"Beaufort, A.J.",voorslaander,0,,0,,0,,0,,0,,0,,,,,,nee,,8,gehuwd,38,"was staker, doch woensdag door ziekte verhinderd zich voor 4 uur te melden, waarvan hij schriftelijk kennis gaf. Donderdag 7 uur den arbeid hervat."
+59,Oude_Smederij,50,NL-UtHUA_A195420_000050,b,"Vernout, A.",voorslaander,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,,,,,,,,,,
+60,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Dijk, J.J. Van",voorslaander,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+61,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Hengel, J. van",voorslaander,0,,0,,0,,0,,0,,0,,,,,ja,ja,,5,gehuwd,29,
+62,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Tol, J.C. Van",voorslaander,0,,0,,0,,0,,0,,0,,,,,ja,ja,,5,gehuwd,32,
+63,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Stappers, H.A.",voorslaander,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+64,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Talboom, P.M.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,ongehuwd,26,20 april opnieuw in dienst getreden
+65,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Tesselaar, G.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+66,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Bert, J.Th.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,25,20 april opnieuw in dienst getreden
+67,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Scheidler, H.W.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,25,20 april opnieuw in dienst getreden
+68,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Scheidler, J.F.C.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,23,20 april opnieuw in dienst getreden
+69,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Tongeren, J. van",voorslaander,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+70,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Timmers, W.G.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,23,20 april opnieuw in dienst getreden
+71,Oude_Smederij,50,NL-UtHUA_A195420_000050,w,"Stokman, Th. J.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+72,Oude_Smederij,50,NL-UtHUA_A195420_000050,g,"Amelsbeek, L. van",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-06-23,0,ongehuwd,29,20 april opnieuw in dienst getreden
+73,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Bruijn, H. de",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+74,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Wildschut, H.",vuurwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+75,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Steeg, E. v.d.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+76,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Yosa, F.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+77,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Kok, R.",vuurwerker,0,,0,,5,,0,ziek,0,,0,,,,ja,ja,ja,,9,gehuwd,37,meldde zich 8 april als staker; 20 april weer in dienst genomen
+78,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Scholte, P.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,34,20 april opnieuw in dienst getreden
+79,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Eckhardt, J.Th.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-07-07,0,ongehuwd,27,20 april opnieuw in dienst getreden
+80,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Schild, G.",vuurwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+81,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Kimman, J.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+82,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Vergunst, M.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,32,20 april opnieuw in dienst getreden
+83,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Stoute, J.D.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,30,22 april opnieuw in dienst getreden
+84,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Elswijk, P. van",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,31,20 april opnieuw in dienst getreden
+85,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Water, D. v.d.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,46,20 april opnieuw in dienst getreden
+86,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Spronk, J.",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+87,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Ende, D.M. v.d.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,35,20 april opnieuw in dienst getreden
+88,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Wijk, J.H. Van",vuurwerker,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,5,gehuwd,27,20 april opnieuw in dienst getreden
+89,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Paartman, A.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,32,20 april opnieuw in dienst getreden
+90,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Dussen, B.W. v.d.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,29,20 april opnieuw in dienst getreden
+91,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Leeuwen, L.J. Van",vuurwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+92,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Rijn, J.C. Van",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+93,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Hertog, S.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,25,20 april opnieuw in dienst getreden
+94,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Horsmeijer, J.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,28,20 april opnieuw in dienst getreden
+95,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Rademaker, W.",vuurwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+96,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,r,"Wijkhuizen, J.G.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,9,gehuwd,29,had verlof meldde zich als staker (Schriftelijk)
+97,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,r,"Meijer, P.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,1,ongehuwd,23,
+98,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Polanen, J.A. v.",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-07-07,0,ongehuwd,23,20 april opnieuw in dienst getreden
+99,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Vries, J. de",vuurwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+100,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Graaff, C. de",vuurwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-09-15,0,ongehuwd,21,20 april opnieuw in dienst getreden
+101,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Toepoel, D.",drijver_valhamer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+102,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Franken, H.",drijver_valhamer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+103,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,b,"Plantje, M.J.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+104,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Koeijers, J.E.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+105,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,g,"Wapstra, P.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,23,gehuwd,53,20 april opnieuw in dienst getreden
+106,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Puts, C.J.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+107,Nieuwe_Smederij,51,NL-UtHUA_A195420_000051,w,"Swenneker, H.",voorslaander,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+108,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,b,"Arons, A.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+109,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Wallach, M.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,ongehuwd,25,20 april opnieuw in dienst getreden
+110,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,w,"Watzema, M.",voorslaander,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+111,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,r,"Handgraaf, W.H.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,37,
+112,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,b,"Vijgh, H. v.d.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+113,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Eijkel, A.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,gehuwd,35,20 april opnieuw in dienst getreden
+114,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,r,"Zweeris, A.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-06-09,0,ongehuwd,21,
+115,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,w,"Pennarts, G.L.J.",voorslaander,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+116,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,b,"Snellens, C.J.",voorslaander,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+117,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,r,"Metz, C.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,,,8,gehuwd,30,ontslag genomen
+118,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Hendriks, J.P.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,27,20 april opnieuw in dienst getreden
+119,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Verschueren, J.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,35,20 april opnieuw in dienst getreden
+120,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,b,"Maas, W.A.",voorslaander,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+121,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Otteloo, P.W.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,34,20 april opnieuw in dienst getreden
+122,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Suurendonk, Chr.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,27,22 april opnieuw in dienst getreden
+123,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Hagedoorn, H.J.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,25,20 april opnieuw in dienst getreden
+124,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,w,"Verhagen, W.H.",voorslaander,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+125,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Goes, A. v.d.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,ongehuwd,23,20 april opnieuw in dienst getreden
+126,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,b,"Smits, L.",voorslaander,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+127,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,g,"Arnoud de Callowon, J.",voorslaander,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-07-04,0,gehuwd,28,20 april opnieuw in dienst getreden
+128,Nieuwe_Smederij,52,NL-UtHUA_A195420_000052,w,"Dijck, J.A. Van",voorslaander,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+129,Wielendraaierij,52,NL-UtHUA_A195420_000052,b,"Blansert, F.W.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+130,Wielendraaierij,52,NL-UtHUA_A195420_000052,w,"Quint, H.W.",wielendraaier,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+131,Wielendraaierij,52,NL-UtHUA_A195420_000052,b,"Brandt, G.",wielendraaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+132,Wielendraaierij,52,NL-UtHUA_A195420_000052,w,"Pardon, J.",wielendraaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+133,Wielendraaierij,52,NL-UtHUA_A195420_000052,r,"Koeijers, A.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,20,gehuwd,37,
+134,Wielendraaierij,52,NL-UtHUA_A195420_000052,b,"Mekenkamp, H.",wielendraaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+135,Wielendraaierij,52,NL-UtHUA_A195420_000052,b,"Aandekerk, N.B.",wielendraaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+136,Wielendraaierij,52,NL-UtHUA_A195420_000052,w,"Godefroy, D.",wielendraaier,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+137,Wielendraaierij,52,NL-UtHUA_A195420_000052,r,"Heesemans, M.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,30,
+138,Wielendraaierij,52,NL-UtHUA_A195420_000052,w,"Hoogeboom, H.G.",wielendraaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+139,Wielendraaierij,52,NL-UtHUA_A195420_000052,w,"Roekens, J.C.",wielendraaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+140,Wielendraaierij,52,NL-UtHUA_A195420_000052,g,"Vlijmen, G.C. Van",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,ongehuwd,24,20 april opnieuw in dienst getreden
+141,Wielendraaierij,53,NL-UtHUA_A195420_000053,r,"Woudenberg, H.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,ongehuwd,22,
+142,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Musscher, J.J. Van",wielendraaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+143,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Bijster, G.",wielendraaier,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,0,verlof/milit. dnst,,,,,,,,,,
+144,Wielendraaierij,53,NL-UtHUA_A195420_000053,g,"Franssen, J.H.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,23,20 april opnieuw in dienst getreden
+145,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Knape, M.J.",wielendraaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+146,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Pennarts, W.",wielendraaier,0,,0,,0,,0,,0,,0,,,,,,,,,,,14 april te werk gesteld
+147,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Moolenaar, G.",wielendraaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+148,Wielendraaierij,53,NL-UtHUA_A195420_000053,r,"Koe, A.W. De",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-06-23,0,ongehuwd,18,
+149,Wielendraaierij,53,NL-UtHUA_A195420_000053,g,"Tongeren, J. van",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,22,20 april opnieuw in dienst getreden
+150,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Montfoort, W.M. v.",wielendraaier,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+151,Wielendraaierij,53,NL-UtHUA_A195420_000053,g,"Woudenberg, C.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-06-23,0,ongehuwd,17,20 april opnieuw in dienst getreden
+152,Wielendraaierij,53,NL-UtHUA_A195420_000053,r,"Honing, J.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,1,ongehuwd,20,
+153,Wielendraaierij,53,NL-UtHUA_A195420_000053,g,"Becker, W.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-04-14,0,ongehuwd,19,20 april opnieuw in dienst getreden
+154,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Steenkist, D.",wielendraaier,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+155,Wielendraaierij,53,NL-UtHUA_A195420_000053,r,"Wikke, J.J.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,ongehuwd,19,
+156,Wielendraaierij,53,NL-UtHUA_A195420_000053,r,"Kuipers, J.J.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,1,ongehuwd,18,
+157,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Moolenaar, S.P.",wielendraaier,0,,0,,4.5,,5,,5,,5,,,,,,,,,,,
+158,Wielendraaierij,53,NL-UtHUA_A195420_000053,g,"Donselaar, J.A.J. v.",wielendraaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-06-23,0,ongehuwd,16,20 april opnieuw in dienst getreden
+159,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Kottman, P.H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+160,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Bilt, W.P. v.d.",bankwerker,0,,0,,4,,5,,5,,5,,,,,,,,,,,
+161,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Moser, A.A.",wielbandlegger,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+162,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Timmers, A.",wielbandlegger,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+163,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Aandekerk, J.",wielbandlegger,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+164,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Blankensteijn, R.",wielbandlegger,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+165,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Loenen, N.H. Van",wielbandlegger,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+166,Wielendraaierij,53,NL-UtHUA_A195420_000053,w,"Wildschut, G.A.",wielbandlegger,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+167,Wielendraaierij,53,NL-UtHUA_A195420_000053,b,"Tork, H.H.",wielbandlegger,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+168,Houtloods,53,NL-UtHUA_A195420_000053,b,"Vloemans, L.",houtbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+169,Balkenzagerij,53,NL-UtHUA_A195420_000053,w,"Moolenaar, A.",zager,0,,0,,0,,0,,0,,0,,,,,,,,,,,
+170,Balkenzagerij,53,NL-UtHUA_A195420_000053,b,"Zwieten, J. van",mach._Drijver,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+171,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Koster, J.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,gehuwd,29,20 april opnieuw in dienst getreden
+172,Zeilmakerij,54,NL-UtHUA_A195420_000054,b,"Panvis, B.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+173,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Nouwland, C. v.d.",zeilmaker,0,,0,,5,,5,,0,verlof,0,verlof,,,,,,,,,,
+174,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Bakker, K.",zeilmaker,0,,0,,0,,0,,0,,0,,,,,,,,,,,
+175,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Riedeman, S.",zeilmaker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+176,Zeilmakerij,54,NL-UtHUA_A195420_000054,r,"Groot, P. de",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,32,
+177,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Stelleman, P.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,34,20 april opnieuw in dienst getreden
+178,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Marinus, S.",zeilmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+179,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Proper, D.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,39,20 april opnieuw in dienst getreden
+180,Zeilmakerij,54,NL-UtHUA_A195420_000054,r,"Haan, F. de",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,14,gehuwd,34,
+181,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Schriel, G.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,31,20 april opnieuw in dienst getreden
+182,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Boom, P.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,gehuwd,28,20 april opnieuw in dienst getreden
+183,Zeilmakerij,54,NL-UtHUA_A195420_000054,r,"Zwol, W. van",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,43,
+184,Zeilmakerij,54,NL-UtHUA_A195420_000054,b,"Mijnders, F.H.",zeilmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+185,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Schipper, J.",zeilmaker,0,,0,,0,,0,,0,,0,,,,,,,,,,,14 april te werk gesteld
+186,Zeilmakerij,54,NL-UtHUA_A195420_000054,b,"Welters, J.G.",zeilmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+187,Zeilmakerij,54,NL-UtHUA_A195420_000054,r,"Duinker, P.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,24,
+188,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Bangma, J.R.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,ongehuwd,21,20 april opnieuw in dienst getreden
+189,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Heitlager, P.",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,ongehuwd,24,20 april opnieuw in dienst getreden
+190,Zeilmakerij,54,NL-UtHUA_A195420_000054,g,"Groot, Tj. De",zeilmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,ongehuwd,27,20 april opnieuw in dienst getreden
+191,Zeilmakerij,54,NL-UtHUA_A195420_000054,w,"Brands, P.",zeilmaker,0,,0,,4,,5,,5,,5,,,,,,,,,,,
+192,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Steeg, Sr., H. v.d.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+193,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Beer, A. de",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+194,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Draeck, P.M.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+195,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Becker, J.G.F.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+196,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Rees, H.T.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+197,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Dijck, A. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+198,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Steeg, Jr., H.v.d.",wnd_ass._Opz._Op_proef,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+199,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Miegielse, N.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+200,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Somers, J.H.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+201,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Maanen, O.H. v.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+202,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Leeuwen, H. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+203,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Keijzer, F.",ploegbaas,0,verlof,0,verlof,5,,5,,5,,5,,,,,,,,,,,
+204,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Gouka, W.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+205,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Roosen, J.C.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+206,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Menke, H.H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+207,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Kuipers, W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+208,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Mackelenbergh, J.E.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+209,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,g,"Moserman, F.A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,44,20 april opnieuw in dienst getreden
+210,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,r,"Leen, H. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,19,gescheiden,51,Was ziek ()
+211,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,w,"Denssen, G.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+212,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Jansse, J.W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+213,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Leeuwen, J. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+214,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,w,"Perry, J.",bankwerker,5,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+215,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Leeuwen, M. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+216,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Dokkum, H. van",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+217,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Vossen, A. Th. v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+218,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Hamersveld, J.C. v.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+219,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Deppe, J.C.F.",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+220,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Aarts, P.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+221,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Rieu, M.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+222,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Buurman, D.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+223,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Lasschuit, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+224,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Ploeg, P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+225,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Kors, H.A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+226,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Vermeer, W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+227,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Burgt, F.M. v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+228,Locomotiefbankwerkerij,57,NL-UtHUA_A195420_000057,b,"Bakker, T.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+229,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Gosewehr, J.F.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,33,20 april opnieuw in dienst getreden
+230,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Wiggers, A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+231,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Roodt, J.C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+232,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Koene, A.J.B.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+233,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Zijlaar, A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+234,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Verbeek, A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,34,20 april opnieuw in dienst getreden
+235,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Meijer, J.F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+236,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Logmans, J.H.A.",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+237,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Martens, P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,50,20 april opnieuw in dienst getreden
+238,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,w,"Wout, G.",bankwerker,0,,0,,0,,0,,0,,0,,,,,,,,,,,14 april te werk gesteld
+239,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Wille, J.H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+240,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Waard, M. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+241,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,r,"Prins, H.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,45,
+242,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,r,"Boer, J. de",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,39,
+243,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,w,"Herrmann, A.",bankwerker,5.5,,0,,0,,5,,5,,5,,,,,,,,,,,
+244,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Hoos, G.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+245,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,w,"Sleper, P.J.",bankwerker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+246,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Bekooij, C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+247,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,r,"Bos, A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,44,
+248,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Looij, S. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,31,20 april opnieuw in dienst getreden
+249,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Polderman, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+250,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Mansvelder, J.E.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+251,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Witte, A. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+252,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Witte, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,49,20 april opnieuw in dienst getreden
+253,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Eterman, S.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+254,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,r,"Mink, B. de",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,39,
+255,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Keijzer, J.C.N.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+256,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,w,"Thijs, J.H.",bankwerker,0,,0,,0,,0,,0,,0,,,,,,,,,,,14 april te werk gesteld
+257,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Elsing, W.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+258,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Heeris, F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+259,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Acker, P.J. Van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+260,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,r,"Ouwel, W. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,47,
+261,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Piers, J.W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,31,20 april opnieuw in dienst getreden
+262,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Jonkman, J.P.",bankwerker,0,verlof,4.5,,5,,5,,5,,5,,,,,,,,,,,
+263,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Graaf, W.C.N. De",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+264,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,b,"Merkensteijn, J.K.D. Van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+265,Locomotiefbankwerkerij,58,NL-UtHUA_A195420_000058,g,"Schuurmans, A.P.",bankwerker,0,verlof,0,verlof,0,,0,,0,,0,,,,ja,ja,ja,,8,gehuwd,33,20 april opnieuw in dienst getreden
+266,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Polderman, A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+267,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,w,"Esch, P.J. Van",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+268,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,w,"Schaar, C.v.d.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+269,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Oploo, J. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+270,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Bon, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+271,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Kerklaan, J.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+272,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Scharwachter, W.F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+273,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,g,"Lieshout, P. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,35,20 april opnieuw in dienst getreden
+274,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Kottman, J.P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+275,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,r,"Bootsma, S.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,18,gehuwd,46,
+276,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Kooij, C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+277,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,r,"Hartendorp, A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,15,gehuwd,35,
+278,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Theijsmeijer, L.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+279,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Graaf, F.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+280,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Dievenbach, B.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+281,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Schiller, C.F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+282,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,g,"Folkerts, A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,36,20 april opnieuw in dienst getreden
+283,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Os, A. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+284,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Perry, L.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+285,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Lingg, A.",bankwerker,0,verlof,0,verlof,5,,5,,5,,5,,,,,,,,,,,
+286,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Vries, J. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+287,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,g,"Miesyerus, P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,44,20 april opnieuw in dienst getreden
+288,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,g,"Volkers , A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,ongehuwd,31,20 april opnieuw in dienst getreden
+289,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Hert, J. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+290,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Glas, C.H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+291,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Riphagen, R.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+292,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Kenzen, B.C.",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+293,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,w,"Maas, J. van",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+294,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Maanen, J.F. v.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+295,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Wolters, B.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+296,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Volkers, B.",bankwerker,5,,5,,5,,5,,5,,4.5,,,,,,,,,,,
+297,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,g,"Geerink, H.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,weduwnaar m.k.,36,20 april opnieuw in dienst getreden
+298,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,w,"Sillevis, S.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+299,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,w,"Kock, E.H.",bankwerker,0,,5.5,,0,,0,,0,,5,,,,,,,,,,,
+300,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,r,"Verhoeven, C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,gehuwd,34,
+301,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Oploo, D.L. Van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+302,Locomotiefbankwerkerij,59,NL-UtHUA_A195420_000059,b,"Toepoel, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+303,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Groeneveld, P.A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,ongehuwd,29,20 april opnieuw in dienst getreden
+304,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Meijer, P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+305,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Gorter, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,49,20 april opnieuw in dienst getreden
+306,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Slieker, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+307,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Kaart, B.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+308,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Scherpenhuizen, S.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+309,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Bengeling, C.",bankwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+310,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Lugt, G. de",bankwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+311,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Heuvel, J.A. v.d.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+312,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,r,"Dekker, P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,6,ongehuwd,31,
+313,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Gouka, N.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,32,20 april opnieuw in dienst getreden
+314,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Zambeek, L.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,27,20 april opnieuw in dienst getreden
+315,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Leeuwen, P.J. Van",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+316,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Hendrichs, J.C.C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-09-22,0,gehuwd,25,20 april opnieuw in dienst getreden
+317,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,r,"Kan, K.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,28,
+318,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Arnold, A.",bankwerker,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+319,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Zanten, W.A. Van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+320,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,r,"Harthoorn, M.H.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-08-28,0,gehuwd,25,
+321,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Ronde, B.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+322,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Bogaardt, J.A. v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+323,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Verveen, J.Th.",verpakker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+324,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Heijde, C.v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+325,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Pieters, D.L.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,32,20 april opnieuw in dienst getreden
+326,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Assendelft, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,28,20 april opnieuw in dienst getreden
+327,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Mansum, J.van",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+328,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Luijten, P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,ongehuwd,28,20 april opnieuw in dienst getreden
+329,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Aerts, J.A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+330,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,w,"Castelijns, M.P.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+331,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Kruiver, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+332,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Roy, J.B.",bankwerker,0,verlof,0,verlof,5,,5,,5,,5,,,,,,,,,,,
+333,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Meuwese, M.A.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,27,20 april opnieuw in dienst getreden
+334,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Klingens, P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,24,20 april opnieuw in dienst getreden
+335,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Andel, J. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+336,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,r,"Ligtenberg, W.D.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,ongehuwd,29,
+337,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Gijsbers, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+338,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,b,"Nieuwenhoven, N. v.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+339,Locomotiefbankwerkerij,60,NL-UtHUA_A195420_000060,g,"Stemler, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,26,20 april opnieuw in dienst getreden
+340,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Cappelhoff, J.W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+341,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Eggeraat, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-08-12,0,gehuwd,27,20 april opnieuw in dienst getreden
+342,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Polderman, W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+343,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Waals, J.Th. v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+344,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Weers, A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+345,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Frikke, H.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,20,20 april opnieuw in dienst getreden
+346,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Marchand, D.",bankwerker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+347,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Kampen, J. van",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+348,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Papee, A.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+349,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Schneider, F.W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,ongehuwd,25,
+350,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Keizerswaard, H.v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,8,ongehuwd,25,
+351,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Wesselius, I, W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+352,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Nouwland, J.C.v.d.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,8,ongehuwd,24,
+353,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Maarleveld, C.C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,8,gehuwd,26,20 april opnieuw in dienst getreden
+354,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Rees, D.C.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+355,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Breek, J.C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,ongehuwd,24,20 april opnieuw in dienst getreden
+356,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Wils, E.",bankwerker,5,,0,,0,,5,,5,,5,,,,,,,,,,,
+357,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Stokman, J.P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+358,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Felder, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,25,20 april opnieuw in dienst getreden
+359,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Lauwerenberg, A.G.",bankwerker,5,,5,,5,,2.5,,5,,5,,,,,,,,,,,
+360,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Goosens, K.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,8,ongehuwd,22,
+361,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Vaart, A.J.v.d.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+362,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Goedbloed, G.J.A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+363,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Lijnzaad, J.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,ongehuwd,23,
+364,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Hirs, J.G.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+365,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Stroes, G.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+366,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Leen, H.W.J. Van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,24,20 april opnieuw in dienst getreden
+367,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Maartense, W.M.",bankwerker,0,verlof,0,verlof,0,verlof,0,verlof,0,verlof,0,verlof,,,,,,,,,,
+368,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,g,"Nijssen, D.Th.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,25,20 april opnieuw in dienst getreden
+369,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,r,"Water, M. v.d.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,6,ongehuwd,23,
+370,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Wille, G.H.",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+371,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Busking, M.C.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+372,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Ubaghs, G.J.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+373,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Timmerman, E.",bankwerker,5,,0,,0,,5,,5,,5,,,,,,,,,,,
+374,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Andrea, T.",bankwerker,5,,0,,0,,5,,5,,5,,,,,,,,,,,
+375,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,w,"Meijer, C.J.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+376,Locomotiefbankwerkerij,61,NL-UtHUA_A195420_000061,b,"Dijk, P. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+377,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Blitterswijk, G.C.",bankwerker,0,,0,,0,,0,,0,,2.5,,,,,,,,,,,
+378,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Beer, A.J. De",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+379,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Loon, J. van",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+380,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Hirs, G.G.",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+381,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Vallenduuk, P.D.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+382,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,g,"Roest, J.B.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,22,20 april opnieuw in dienst getreden
+383,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,r,"Wesselius, II, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,ongehuwd,22,
+384,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Rappard, O.E.",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+385,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Ubaghs, L.G.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+386,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,r,"Leersum, J.J. v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,ongehuwd,22,
+387,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,g,"Venger, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,20,20 april opnieuw in dienst getreden
+388,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Hetem, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+389,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Blok, P.H.L.",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+390,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Houtzager, G.",bankwerker,0,,4.5,,5,,5,,5,,5,,,,,,,,,,,
+391,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Bruijn, H. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+392,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Nederkoorn, M.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+393,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,g,"Molen, A. v.d.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,21,20 april opnieuw in dienst getreden
+394,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Vries, G.P. De",bankwerker,5,,5,,0,verlof,0,verlof,5,,5,,,,,,,,,,,
+395,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Wiekart, K.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+396,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Busking, Th.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+397,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Houtzager, P.C.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+398,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Berg, H.J. v.d.",bankwerker,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+399,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,g,"Mes, C.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,22,20 april opnieuw in dienst getreden
+400,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Schulte, J.M.A.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+401,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Takes, H.P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+402,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Lugt, P. de",bankwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+403,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Reis, A.",bankwerker,5,,5,,5,,4.5,,5,,5,,,,,,,,,,,
+404,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Houpt, C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+405,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,g,"Bakker, G.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,weduwnaar m.k.,42,20 april opnieuw in dienst getreden
+406,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Houpt, A.C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+407,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Hagedoorn, S.W.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+408,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Broeker, J.J.",bankwerker,0.5,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,,,,,,,,,,Dienst als leerling mach.t te Ddl
+409,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Vocke, B.H.C.",bankwerker,0,,5,,0,verlof,0,verlof,5,,5,,,,,,,,,,,
+410,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,Huizinga. D.,bankwerker,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+411,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,b,"Heijboer, A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+412,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,r,"Horman, A.F.K.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,31,
+413,Locomotiefbankwerkerij,62,NL-UtHUA_A195420_000062,w,"Roest, K.L.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+414,Locomotiefbankwerkerij,63,NL-UtHUA_A195420_000063,b,"Draaiers, J.A.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+415,Locomotiefbankwerkerij,63,NL-UtHUA_A195420_000063,g,"Uitendaal, J.P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,25,20 april opnieuw in dienst getreden
+416,Locomotiefbankwerkerij,63,NL-UtHUA_A195420_000063,r,"Waveren, G. v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,ongehuwd,23,
+417,Locomotiefbankwerkerij,63,NL-UtHUA_A195420_000063,w,"Piepenbrink, P.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+418,Locomotiefbankwerkerij,63,NL-UtHUA_A195420_000063,g,"Koster, G.P.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,25,20 april opnieuw in dienst getreden
+419,Poetsers,63,NL-UtHUA_A195420_000063,b,"Molen, A. v.d.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+420,Poetsers,63,NL-UtHUA_A195420_000063,g,"Dweelaard, J.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,45,20 april opnieuw in dienst getreden
+421,Poetsers,63,NL-UtHUA_A195420_000063,b,"Hagemans, H.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+422,Poetsers,63,NL-UtHUA_A195420_000063,b,"Bouman, P.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+423,Poetsers,63,NL-UtHUA_A195420_000063,b,"Rijbroek, F.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+424,Poetsers,63,NL-UtHUA_A195420_000063,b,"Peters, P.",poetser,5,,5,,5,,5.5,,5,,5,,,,,,,,,,,
+425,Poetsers,63,NL-UtHUA_A195420_000063,b,"Versteeg, J.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+426,Poetsers,63,NL-UtHUA_A195420_000063,g,"Dantzig, W. van",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,46,20 april opnieuw in dienst getreden
+427,Poetsers,63,NL-UtHUA_A195420_000063,b,"Gog, C. van",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+428,Poetsers,63,NL-UtHUA_A195420_000063,g,"Hessels, H.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,34,20 april opnieuw in dienst getreden
+429,Poetsers,63,NL-UtHUA_A195420_000063,r,"Delden, P. van",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,42,
+430,Poetsers,63,NL-UtHUA_A195420_000063,b,"Emmerik, H.J. Van",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+431,Poetsers,63,NL-UtHUA_A195420_000063,b,"Vooges, J.J.",poetser,8,,6.5,,6,,6,,8,,6,,,,,,,,,,,
+432,Poetsers,63,NL-UtHUA_A195420_000063,g,"Zaaijer, H. de",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,32,20 april opnieuw in dienst getreden
+433,Poetsers,63,NL-UtHUA_A195420_000063,b,"Hoogendoorn, K.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+434,Poetsers,63,NL-UtHUA_A195420_000063,b,"Toemen, J.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+435,Poetsers,63,NL-UtHUA_A195420_000063,b,"Bakx, J.F.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+436,Poetsers,63,NL-UtHUA_A195420_000063,b,"Beaufort, J.P.J.",poetser,5,,5,,6.5,,5.5,,6,,5.5,,,,,,,,,,,
+437,Poetsers,63,NL-UtHUA_A195420_000063,b,"Troost, J.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+438,Poetsers,63,NL-UtHUA_A195420_000063,b,"Egmond, H.v.",poetser,6,,8,,5,,5,,6,,5,,,,,,,,,,,
+439,Poetsers,63,NL-UtHUA_A195420_000063,r,"Mollema, J.",poetser,5,,5,,5,,5,,0,,0,,,,ja,ja,nee,,6,gehuwd,35,
+440,Poetsers,63,NL-UtHUA_A195420_000063,b,"Selvis, L.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+441,Poetsers,63,NL-UtHUA_A195420_000063,g,"Schouten, C.",poetser,5,,5,,0,,0,,0,,0,,,,ja,ja,ja,,1.5,gehuwd,35,20 april opnieuw in dienst getreden
+442,Poetsers,63,NL-UtHUA_A195420_000063,b,"Beaufort, P.",poetser,5,,5,,5,,5,,5,,4,,,,,,,,,,,
+443,Poetsers,63,NL-UtHUA_A195420_000063,g,"Kloes, B.R.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,33,20 april opnieuw in dienst getreden
+444,Poetsers,63,NL-UtHUA_A195420_000063,r,"Sieval, M.",poetser,0,,0,,5,,5,,0,,0,,,,ja,ja,nee,,5,gehuwd,29,
+445,Poetsers,63,NL-UtHUA_A195420_000063,g,"Tijdgaat, P.",poetser,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,5,gehuwd,31,20 april opnieuw in dienst getreden
+446,Poetsers,63,NL-UtHUA_A195420_000063,b,"Slakhorst, B.W.",poetser,5,,3.5,,5,,5,,5,,5,,,,,,,,,,,
+447,Poetsers,63,NL-UtHUA_A195420_000063,b,"Passchier, A.",poetser,5,,5,,6,,5.5,,6,,5.5,,,,,,,,,,,
+448,Poetsers,64,NL-UtHUA_A195420_000064,b,"Wind, P.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+449,Poetsers,64,NL-UtHUA_A195420_000064,b,"Sieval, H.",poetser,5,,5,,5,,5,,5,,4,,,,,,,,,,,
+450,Poetsers,64,NL-UtHUA_A195420_000064,w,"Polle, G.B.",poetser,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+451,Poetsers,64,NL-UtHUA_A195420_000064,r,"Bogaard, J. v.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,gehuwd,23,
+452,Poetsers,64,NL-UtHUA_A195420_000064,b,"Terwee, W.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+453,Poetsers,64,NL-UtHUA_A195420_000064,b,"Damen, H.A.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+454,Poetsers,64,NL-UtHUA_A195420_000064,b,"Klaassen, L.H.",poetser,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,,,,,,,,,,dienst als nachtwacht
+455,Poetsers,64,NL-UtHUA_A195420_000064,g,"Delden, W. van",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,23,20 april opnieuw in dienst getreden
+456,Poetsers,64,NL-UtHUA_A195420_000064,w,"Prosee, J.",poetser,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+457,Poetsers,64,NL-UtHUA_A195420_000064,g,"Dekker, J.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,1902-04-14,0,ongehuwd,23,20 april opnieuw in dienst getreden
+458,Poetsers,64,NL-UtHUA_A195420_000064,w,"Beaufort, J.J.",poetser,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+459,Poetsers,64,NL-UtHUA_A195420_000064,b,"Fabel, D.J.",poetser,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,0,elders werkzaam,,,,,,,,,,dienst als nachtwacht
+460,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Busking, M.C.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+461,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Koster, B.A.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+462,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Bogaardt Sr, W.P. v.d.",draaier,5,,5,,5,,5,,5,,3.5,,,,,,,,,,,
+463,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Groeneveld, H.L.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+464,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Kruijd, D.",draaier,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+465,Oude_Draaierij,64,NL-UtHUA_A195420_000064,w,"Volkers, D.J.",draaier,5,,0,,5,,5,,5,,5,,,,,,,,,,,
+466,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Gijsbers, G.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+467,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Pull, W.A.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+468,Oude_Draaierij,64,NL-UtHUA_A195420_000064,w,Nijs. J. de,draaier,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+469,Oude_Draaierij,64,NL-UtHUA_A195420_000064,g,"Brunckman, H.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,ongehuwd,37,20 april opnieuw in dienst getreden
+470,Oude_Draaierij,64,NL-UtHUA_A195420_000064,r,"Vermeeren, A.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,17,gehuwd,37,
+471,Oude_Draaierij,64,NL-UtHUA_A195420_000064,w,"Roestenberg, F.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+472,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Fakes, W.C.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+473,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Schaap, B.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+474,Oude_Draaierij,64,NL-UtHUA_A195420_000064,g,"Rohdens, J.H.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,41,20 april opnieuw in dienst getreden
+475,Oude_Draaierij,64,NL-UtHUA_A195420_000064,g,"Smit, C.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,38,20 april opnieuw in dienst getreden
+476,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Goossens, E.L.D.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+477,Oude_Draaierij,64,NL-UtHUA_A195420_000064,r,"Koning, F.",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,45,
+478,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Boer, A.W. De",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+479,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Wesselius, A.W.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+480,Oude_Draaierij,64,NL-UtHUA_A195420_000064,b,"Ruifrok, L.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+481,Oude_Draaierij,64,NL-UtHUA_A195420_000064,g,"Fransen, J.H.W.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,21,gehuwd,37,20 april opnieuw in dienst getreden
+482,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Lunenburg, A. v.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+483,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Bogaardt Jr, W.P. v.d.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+484,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Jonker, H.",steker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+485,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Wickart, J.C.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+486,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Reemer, C.W.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+487,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Hoogeboom, J.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+488,Oude_Draaierij,65,NL-UtHUA_A195420_000065,r,"Booms, Jr. C.P.",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,18,gehuwd,30,
+489,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Swaanswijk, G.P.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+490,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Gieske, J.",steker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+491,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Kaptein, W.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+492,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Hoskam, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,30,20 april opnieuw in dienst getreden
+493,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Mes, G.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+494,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Rijbroek, J.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+495,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Riphagen, H.J.",draaier,0,ziek,4.5,,5,,5,,5,,5,,,,,,,,,,,
+496,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Junge, H.L.",schaver,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+497,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Kenzen, N.",draaier,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+498,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Meulenaarsgraf, K.N. v.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+499,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Slijper, M.Th.",draaier,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+500,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Veer, W. de",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,36,20 april opnieuw in dienst getreden
+501,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Bauer, J.D.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+502,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Beekelaar, P.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+503,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Delden, G. van",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,31,20 april opnieuw in dienst getreden
+504,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Hos, J.G.",schaver,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+505,Oude_Draaierij,65,NL-UtHUA_A195420_000065,r,"Schreijnders, P.P.C.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,29,
+506,Oude_Draaierij,65,NL-UtHUA_A195420_000065,r,"Bell, H.P. De",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,31,
+507,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Vries, T. de",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+508,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Sunter, J.J.",draaier,0,,0,,5,,5,,0,,5,,,,,,,,,,,
+509,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Eijkhoff, H. v.d.",boorder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+510,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Montfoort, W.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+511,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Marsbergen, J.v.",slijper,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,41,20 april opnieuw in dienst getreden
+512,Oude_Draaierij,65,NL-UtHUA_A195420_000065,b,"Klaassen, J.D.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+513,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Aandekerk, Jr. J.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+514,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Visser, C.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,31,20 april opnieuw in dienst getreden
+515,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Dekker, K.",slijper,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+516,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Graaf, C. de",draadsnijder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,39,20 april opnieuw in dienst getreden
+517,Oude_Draaierij,65,NL-UtHUA_A195420_000065,g,"Huijsmans, H.",draadsnijder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,37,20 april opnieuw in dienst getreden
+518,Oude_Draaierij,65,NL-UtHUA_A195420_000065,w,"Vermeulen, H.",steker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+519,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Heemskerk, J.B.",schaver,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+520,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Damiaans, D.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+521,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Bouman, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,30,20 april opnieuw in dienst getreden
+522,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Vergers, A.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+523,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Jansen Hendriks, A.",draaier,0,,4.5,,5,,5,,6,,3.5,,,,,,,,,,,
+524,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Waals, W.A. v.d.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+525,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Velthoven, D.J. v.",boorder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+526,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Gelder, H. van",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,ongehuwd,27,20 april opnieuw in dienst getreden
+527,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Sparreboom, P.A.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+528,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Fabel, D.",draaier,0,,5,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+529,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Roelfsema, H.",slijper,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,25,20 april opnieuw in dienst getreden
+530,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Snoeks, J.F.",draaier,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+531,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Dweelaard, J.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,8,ongehuwd,24,20 april opnieuw in dienst getreden
+532,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Korselius, B.",boorder,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+533,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Vossen, C.B. v.d.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+534,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Stroes, Jr. C.",draadsnijder,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+535,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Kok, H.",draaier,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+536,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Knape, J.G.",slijper,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+537,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Schutte, J.",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,ongehuwd,23,20 april opnieuw in dienst getreden
+538,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Boeree, J.",slijper,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+539,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,Bos. J.,draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+540,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Toornend, L.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,24,20 april opnieuw in dienst getreden
+541,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Dreijer, H.B.",fraizer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+542,Oude_Draaierij,66,NL-UtHUA_A195420_000066,r,"Kloos, F.J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,ongehuwd,22,
+543,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Engelen, J.H. Van",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+544,Oude_Draaierij,66,NL-UtHUA_A195420_000066,r,"Vloten, H. van",draadsnijder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,gehuwd,38,
+545,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Gubbels, H.W.",draadsnijder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+546,Oude_Draaierij,66,NL-UtHUA_A195420_000066,w,"Horeman, H.",draadsnijder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+547,Oude_Draaierij,66,NL-UtHUA_A195420_000066,r,"Berg, H.A. v.d.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,ongehuwd,20,
+548,Oude_Draaierij,66,NL-UtHUA_A195420_000066,g,"Bijl, J.C. v.d.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,ongehuwd,32,20 april opnieuw in dienst getreden
+549,Oude_Draaierij,66,NL-UtHUA_A195420_000066,b,"Nicolai, D.",poetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+550,Nieuwe_Draaierij,66,NL-UtHUA_A195420_000066,b,"Junge, L.F.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+551,Nieuwe_Draaierij,66,NL-UtHUA_A195420_000066,b,"Becker, J.J.",fraizer,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+552,Nieuwe_Draaierij,66,NL-UtHUA_A195420_000066,b,"Oploo, C.J. Van",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+553,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Huijboom, P.A.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,21,gehuwd,36,20 april opnieuw in dienst getreden
+554,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Uijlenhoed, A.F.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+555,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Dirks, C.",draaier,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+556,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Hensen, L.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,43,20 april opnieuw in dienst getreden
+557,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Menage, R.",steker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gescheiden,41,"was ziek, gaf door zijn schriftelijk verzoek om plaatsing te kennen dat hij staker was; 20/4 opnieuw in dienst getreden"
+558,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Rossen, A. van",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,35,20 april opnieuw in dienst getreden
+559,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Sonnemans, H.W.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,13,gehuwd,37,20 april opnieuw in dienst getreden
+560,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Geervliet, P.M.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+561,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Vredenduin, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,34,20 april opnieuw in dienst getreden
+562,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Baltes, J.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+563,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Verkerk, F.A.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+564,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Meenhorst, R.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,30,
+565,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Grootendorst, D.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,17,gehuwd,47,
+566,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Hoogeboom, J.",schaver,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+567,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Dortmundt, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,29,20 april opnieuw in dienst getreden
+568,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Warmer, J.F.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+569,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Klinkenberg, D.D.",schaver,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+570,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Kluft, P.N.",fraizer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+571,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Kuijper, W.P.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+572,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,Aartsen W.,schaver,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+573,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Linden, M. v.d.",schaver,0,,0,,0,,0,,0,,5,,,,ja,ja,ja,,11,gehuwd,31,Heeft donderdag 9/4 weer gestaakt. 20 april opnieuw in dienst getreden
+574,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Blazer, H.de",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,30,20 april opnieuw in dienst getreden
+575,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Kerdelaar, J.L. v.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,28,20 april opnieuw in dienst getreden
+576,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Cruijce, G.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,30,20 april opnieuw in dienst getreden
+577,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Hessing, H.",draadsnijder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,
+578,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Scholte, J.C.J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,29,
+579,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,w,"Zeilmaker, J.",draaier,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+580,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Meijer, W.J.",steker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,30,
+581,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Geertkens, M.",slijper,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,31,
+582,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Meeter, S.J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,29,
+583,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Hollander, K.J.",fraizer,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,30,
+584,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Jooris, J.",boorder,5,,5,,5.5,,5,,5.5,,5,,,,,,,,,,,
+585,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,g,"Sonnemans, J.P.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,28,
+586,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Dijkstra, H.G.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,30,
+587,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Zijlstra, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,28,
+588,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,b,"Veltkamp, H.",slijper,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+589,Nieuwe_Draaierij,67,NL-UtHUA_A195420_000067,r,"Koopman, S.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,28,
+590,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Brussel, A. van",draaier,0,,0,,5,,0,,5,,5,,,,,,,,,,,
+591,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,"Roodbergen, F.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,27,
+592,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Bruin, R.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,ongehuwd,27,20 april opnieuw in dienst getreden
+593,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,b,"Meijer, F.A.",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+594,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,Dijk. B. van,schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,29,
+595,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Nijgh, A.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,25,20 april opnieuw in dienst getreden
+596,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Bogaardt, J.A.v.d.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,8,ongehuwd,25,20 april opnieuw in dienst getreden
+597,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Schutte, L.",draaier,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+598,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Schutte, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,26,20 april opnieuw in dienst getreden
+599,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Waning, Th.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,8,ongehuwd,26,20 april opnieuw in dienst getreden
+600,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,"Mienes, P.",slijper,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,ongehuwd,29,
+601,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Greeuw, J.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,24,20 april opnieuw in dienst getreden
+602,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Corsten, P.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+603,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,b,"Eskert, H.J. Van",draaier,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+604,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Rikkers, J.J.",schaver,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,25,20 april opnieuw in dienst getreden
+605,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Norden, A. van",steker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,27,20 april opnieuw in dienst getreden
+606,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Fabel, P.G.",schaver,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+607,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Assendelft, F.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+608,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,"Miegielse, Th. A.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,ongehuwd,24,
+609,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Thoenes, B.",fraizer,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,ongehuwd,24,20 april opnieuw in dienst getreden
+610,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Bell, J. de",fraizer,0,,0,,0,,4,,5,,5,,,,,,,,,,,
+611,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Fortuin, H.",fraizer,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,22,20 april opnieuw in dienst getreden
+612,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Lit, S.v.d.",draaier,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+613,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Cassee, W.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,23,20 april opnieuw in dienst getreden
+614,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Hendriks, A.A.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,22,20 april opnieuw in dienst getreden
+615,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,b,"Koning, M.B.",fraizer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+616,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Noordman, A.F.",fraizer,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,ongehuwd,25,20 april opnieuw in dienst getreden
+617,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,"Borrenberg, P.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,18,
+618,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,w,"Nederkoorn, C.",draaier,0,,5,,5,,4.5,,5,,5,,,,,,,,,,,
+619,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,b,"Lange, F.H. De",draaier,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+620,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,r,"Haan, J.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,9,gehuwd,35,
+621,Nieuwe_Draaierij,68,NL-UtHUA_A195420_000068,g,"Hunting, Th.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,31,20 april opnieuw in dienst getreden
+622,Kopergieterij,69,NL-UtHUA_A195420_000069,w,"Hensen, A.",kopergieter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+623,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Oostwald, H.W.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+624,Kopergieterij,69,NL-UtHUA_A195420_000069,g,"Vegt, H.J. v.d.",kopergieter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,40,20 april opnieuw in dienst getreden
+625,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Hamersveld, A.F.J.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+626,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Hulstein, W.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+627,Kopergieterij,69,NL-UtHUA_A195420_000069,r,"Lohuizen, H. van",kopergieter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,gehuwd,30,
+628,Kopergieterij,69,NL-UtHUA_A195420_000069,w,"Hoven, A. van",afbramer,0,,0,,5,,5,,6,,5,,,,,,,,,,,
+629,Kopergieterij,69,NL-UtHUA_A195420_000069,w,"Ivo, G.",smelter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+630,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Verheijden, B.M.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+631,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Rijbroek, F.A.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+632,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Bijster, A.",kopergieter,5,,5,,4,,5,,5,,5,,,,,,,,,,,
+633,Kopergieterij,69,NL-UtHUA_A195420_000069,b,"Zwaanswijk, P.",kopergieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+634,Compositiegieterij,69,NL-UtHUA_A195420_000069,g,"Jonk, A.",comp._Gieter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,43,20 april opnieuw in dienst getreden
+635,Compositiegieterij,69,NL-UtHUA_A195420_000069,b,"Boelens, J.J.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+636,Compositiegieterij,69,NL-UtHUA_A195420_000069,b,"Berg, N.v.d.",comp._Gieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+637,Compositiegieterij,69,NL-UtHUA_A195420_000069,w,"Luijten, H.",comp._Gieter,5,,0,,5,,5,,5,,0,,ja,,,,,,,,,14 april te werk gesteld
+638,Compositiegieterij,69,NL-UtHUA_A195420_000069,b,"Damme, D.F. Van",comp._Gieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+639,Compositiegieterij,69,NL-UtHUA_A195420_000069,w,"Pligt, H.v.d.",comp._Gieter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+640,Compositiegieterij,69,NL-UtHUA_A195420_000069,w,"Smit, P.",comp._Gieter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+641,Compositiegieterij,69,NL-UtHUA_A195420_000069,b,"Peper, G.J.",comp._Gieter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+642,Koperslagerij,69,NL-UtHUA_A195420_000069,b,"Rozijn, G.L.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+643,Koperslagerij,69,NL-UtHUA_A195420_000069,b,"Klumper, W.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+644,Koperslagerij,69,NL-UtHUA_A195420_000069,b,"Vries, T. de",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+645,Koperslagerij,69,NL-UtHUA_A195420_000069,r,"Herle, G.F.J.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,40,
+646,Koperslagerij,69,NL-UtHUA_A195420_000069,b,"Ronde, P.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+647,Koperslagerij,69,NL-UtHUA_A195420_000069,g,Norden. M. van,koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,34,20 april opnieuw in dienst getreden
+648,Koperslagerij,69,NL-UtHUA_A195420_000069,b,"Hoogervorst, C.H.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+649,Koperslagerij,69,NL-UtHUA_A195420_000069,r,"Vries, H. de",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,24,
+650,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Kok, W.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,28,20 april opnieuw in dienst getreden
+651,Koperslagerij,70,NL-UtHUA_A195420_000070,w,"Nijs, F.A. De",koperslager,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+652,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Ronde, J.J.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+653,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Muijden, J. van",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+654,Koperslagerij,70,NL-UtHUA_A195420_000070,w,"Pennarts, J.H.",koperslager,5,,0,,5,,5,,5,,5,,,,,,,,,,,
+655,Koperslagerij,70,NL-UtHUA_A195420_000070,g,Roest. L.C.,koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,24,20 april opnieuw in dienst getreden
+656,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Seggelen, J.M. Van",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,ongehuwd,25,20 april opnieuw in dienst getreden
+657,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Aar, P.N. v.d.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+658,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Vossen, A.T.v.d.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,24,20 april opnieuw in dienst getreden
+659,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Waals, F.A.v.d.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+660,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Groos, J.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,ongehuwd,24,20 april opnieuw in dienst getreden
+661,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Meulenaarsgraf, K.N. v.",koperslager,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+662,Koperslagerij,70,NL-UtHUA_A195420_000070,b,"Moring, J.C.",koperslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+663,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Voetelink, C.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,21,20 april opnieuw in dienst getreden
+664,Koperslagerij,70,NL-UtHUA_A195420_000070,g,"Arons, B.",koperslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,ongehuwd,21,20 april opnieuw in dienst getreden
+665,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Formunoy, A.F.",blikslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+666,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Verputten, P.J.",blikslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+667,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Kroes, D.J.",blikslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+668,Blikslagerij,70,NL-UtHUA_A195420_000070,r,"Welsum, J.C. Van",blikslager,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,40,
+669,Blikslagerij,70,NL-UtHUA_A195420_000070,r,"Gelder, J.A. De",blikslager,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,35,
+670,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Bos, J.J.",blikslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+671,Blikslagerij,70,NL-UtHUA_A195420_000070,g,"Beaumont, H. van",blikslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,22,20 april opnieuw in dienst getreden
+672,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Zee, A. v.d.",blikslager,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+673,Blikslagerij,70,NL-UtHUA_A195420_000070,b,"Oostwald, C.",blikslager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+674,Blikslagerij,70,NL-UtHUA_A195420_000070,g,"Andel, B. van",blikslager,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,25,20 april opnieuw in dienst getreden
+675,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Zwart, A.P.J. De",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+676,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Brakel, W.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+677,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Prinsen, W.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+678,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Remme, J.Th.",ploegbaas,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+679,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Veldhuis, D.",ploegbaas,5,,6,,5,,5,,5,,5,,,,,,,,,,,
+680,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Bloemink, M.",modelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+681,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Steenstra, C.",modelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+682,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Scheen, A.",modelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+683,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,r,"Kort, J. de",modelmaker,5,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,43,
+684,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Meijer, H.F.",modelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+685,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Hertogh, P.M. Den",modelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+686,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Vlijmen, A. van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+687,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Meijer, P.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+688,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Nederkoorn, C.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+689,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,g,"Vring, A.K.P.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,38,20 april opnieuw in dienst getreden
+690,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,g,"Voerman, W.F.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,34,20 april opnieuw in dienst getreden
+691,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Zweers, G.",wagenmaker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+692,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Remme, J.A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+693,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Harkmans, P.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+694,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,g,"Prinsen, J.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,24,gehuwd,43,20 april opnieuw in dienst getreden
+695,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Rigter, G.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+696,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Steemers, B.J.",wagenmaker,5,,6,,5,,6,,5,,6,,,,,,,,,,,
+697,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Rijbroek, H.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+698,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Looff, H.J. De",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+699,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Andringa, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+700,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Meijer, H.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+701,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Teeuwen, W.",wagenmaker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+702,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Vries, Harmen de",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+703,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,Dijk. H.C. Van,wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+704,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,w,"Stemler, P.C.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+705,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,r,"Westra, W.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,18,gehuwd,38,
+706,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Slot, R.",wagenmaker,5,,5,,4.5,,5,,5,,5,,,,,,,,,,,
+707,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,r,"Jansen, A.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,17,gehuwd,31,
+708,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,b,"Brakel, J.L.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+709,Rijtuigmakerij,73,NL-UtHUA_A195420_000073,r,"Knoll, C.J.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,17,gehuwd,30,
+710,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Bouwman, H.",wagenmaker,5,,5,,5,,5,,0,verlof,0,verlof,,,,,,,,,,
+711,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Brakel, A.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+712,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Nieuwenhoff, J.H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+713,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Lunteren, G.G. Van",wagenmaker,5,,6.5,,4,,5,,5,,5,,,,,,,,,,,
+714,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Lentelink, J.",wagenmaker,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+715,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,g,"Odinot, C.",wagenmaker,5,,5,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,45,20 april opnieuw in dienst getreden
+716,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Heeris, T.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+717,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Pek, P.v.d.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,32,
+718,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Korte, N.F. De",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-06-05,0,gehuwd,28,
+719,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Graaff, J. de",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+720,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Wit, P.",wagenmaker,5,,5,,5,,4,,5,,5,,,,,,,,,,,
+721,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Bel, J.v.d.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,34,
+722,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Klees, J.C.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,40,
+723,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Lentelink, E.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+724,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Boeree, F.A.",wagenmaker,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+725,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Gans, J.S.F.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+726,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Otte, P.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+727,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Franse, H.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,48,
+728,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Hulshof, W.",wagenmaker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+729,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,g,"Martin, J.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,gehuwd,37,
+730,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Bosselaar, A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+731,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Hulshof, G.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+732,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Vrison, J.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+733,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Woord, A.v.d.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+734,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Leijer, A.J.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+735,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Remmert, J.J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+736,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Hermeling, A.M.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+737,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,r,"Tieskens, D.J.",wagenmaker,0,verlof,0,verlof,0,,0,,0,,0,,,,ja,ja,nee,,4,ongehuwd,29,
+738,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Haan, J. de",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+739,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Maas, A.G.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+740,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Harwijne, A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+741,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Nieuwenhoff, W.H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+742,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,b,"Dorreman, W.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+743,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Hagen, J.W.",wagenmaker,0,,0,,0,,6.5,,5,,5,,,,,,,,,,,
+744,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,g,"Buma, J.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,weduwnaar z.k.,29,20 april opnieuw in dienst getreden
+745,Rijtuigmakerij,74,NL-UtHUA_A195420_000074,w,"Nederkoorn, W.",wagenmaker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+746,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Meijer, H.J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+747,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Diermanse, A.M.",wagenmaker,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+748,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Gijsbertse, G.J.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+749,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Ronde, N.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+750,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Way, P.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+751,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Nieuwenhoff, F.F.",wagenmaker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+752,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Sluijs, D.v.d.",wagenmaker,5,,3.5,,5,,5,,5,,5,,,,,,,,,,,
+753,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Meulenaarsgraf, K.N. v.",wagenmaker,0,,0,,4,,5,,5,,5,,,,,,,,,,,
+754,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Steemers, J.B.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+755,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Goosens, H.",wagenmaker,0,,0,,0,,4.5,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+756,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Mensink, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+757,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,r,"Kloos, J.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,20,
+758,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Bolland, R.F.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+759,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Deelen, G.J. Van",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+760,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Roode, J. van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+761,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Bakker, W.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+762,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Lust, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+763,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Meent, J. v.d.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+764,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Zonneveld, H. v.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+765,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,b,"Haarbrink, J.J.",wagenmaker,5,,5,,5,,3,,5,,5,,,,,,,,,,,
+766,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,r,"Graaff, P. de",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-06-17,0,gehuwd,28,
+767,Rijtuigmakerij,75,NL-UtHUA_A195420_000075,w,"Baten, J.",poetser,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+768,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Polen, J. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+769,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Baggerman, C.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+770,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Wilde, J.C. De",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+771,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Beinema, M.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+772,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Blote, F.W.",zager,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+773,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Korthoven, J.Th.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+774,Wagenmakerij,75,NL-UtHUA_A195420_000075,w,"Serne, J.J.",wagenmaker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+775,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Beaumont, H. van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+776,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Diependaal, S.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+777,Wagenmakerij,75,NL-UtHUA_A195420_000075,w,"Nijs, F. de",wagenmaker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+778,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Blanke, H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+779,Wagenmakerij,75,NL-UtHUA_A195420_000075,b,"Vries, Henne de",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+780,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Groot, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+781,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Dijkstra, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+782,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Lammertsma, J.",wagenmaker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+783,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Loon, J.H. Van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+784,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Hilterman, A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+785,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Lust, P.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+786,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Kuipers, F.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+787,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Florie, M.J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+788,Wagenmakerij,76,NL-UtHUA_A195420_000076,g,"Becker, J.J.",wagenmaker,0,,0,,5,,0,,0,,0,,,,ja,ja,ja,,17,gehuwd,34,20 april opnieuw in dienst getreden
+789,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Huijboom, A.A.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+790,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Buijs, F.W.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+791,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Scheen, C.H.",wagenmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+792,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Andel, J.G. Van",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+793,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Windt, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+794,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Ditmar, A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+795,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Amstel, P. van",wagenmaker,5,,5,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+796,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Kerkman, J.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+797,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Compter, W.F.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+798,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Boerkoel, C.F.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+799,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Dorland, C. van",wagenmaker,5,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+800,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Boer, D. de",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+801,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Man, L. de",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+802,Wagenmakerij,76,NL-UtHUA_A195420_000076,r,"Rooij, L. van",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,gehuwd,32,
+803,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Oudt, K.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+804,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Hoekstra, J.G.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+805,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Jansen, E.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+806,Wagenmakerij,76,NL-UtHUA_A195420_000076,w,"Jung, W.",wagenmaker,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+807,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Bak, T.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+808,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Aufderheijde, J.J.",wagenmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+809,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Velthuijsen, J.C.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+810,Wagenmakerij,76,NL-UtHUA_A195420_000076,r,"Dokkum, D. van",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,9,gehuwd,41,
+811,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Harmsen, J.B.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+812,Wagenmakerij,76,NL-UtHUA_A195420_000076,r,"Pieters, W.",wagenmaker,0,,5,,5,,5,,0,,0,,,,ja,ja,nee,,4,gehuwd,30,
+813,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Snee, H.v.d.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+814,Wagenmakerij,76,NL-UtHUA_A195420_000076,b,"Terwee, H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+815,Wagenmakerij,76,NL-UtHUA_A195420_000076,r,"Scharwachter, P.A.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,32,
+816,Wagenmakerij,76,NL-UtHUA_A195420_000076,r,"Folkerts, K.O.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,28,
+817,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Deenen, P. van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+818,Wagenmakerij,77,NL-UtHUA_A195420_000077,w,"Lentelink, H.J.",wagenmaker,5,,5,,0,,5,,5,,5,,,,,,,,,,,
+819,Wagenmakerij,77,NL-UtHUA_A195420_000077,r,"Martens, H.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,35,
+820,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Vrugt, C.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+821,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Beek, J.van",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+822,Wagenmakerij,77,NL-UtHUA_A195420_000077,r,"Romeijn, E.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,26,
+823,Wagenmakerij,77,NL-UtHUA_A195420_000077,r,"Hille, G.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,26,
+824,Wagenmakerij,77,NL-UtHUA_A195420_000077,w,"Mol, B.",wagenmaker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+825,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Daalen, D.H. Van",wagenmaker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+826,Wagenmakerij,77,NL-UtHUA_A195420_000077,r,"Velthuijsen, J.W. v.",wagenmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,weduwnaar m.k.,44,
+827,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Slinger, H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+828,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Hop, J.H.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+829,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Landwehr, P.",wagenmaker,5,,5,,5,,4.5,,5,,5,,,,,,,,,,,
+830,Wagenmakerij,77,NL-UtHUA_A195420_000077,r,"Verbaten, M.",wagenmaker,0,,5.5,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,38,
+831,Wagenmakerij,77,NL-UtHUA_A195420_000077,b,"Mienes, A.",wagenmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+832,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Pieleprat, W.J.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,46,20 april opnieuw in dienst getreden
+833,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Haan, J. de",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,32,gehuwd,55,20 april opnieuw in dienst getreden
+834,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Draijer, L.",zadelmaker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+835,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Fortgens, Sr., C.",zadelmaker,0,,0,,5,,5,,5,,5.5,,,,,,,,,,,
+836,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Zwaan, A. de",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,28,gehuwd,40,20 april opnieuw in dienst getreden
+837,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Bilderbeek, J. v.",zadelmaker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+838,Zadelmakerij,77,NL-UtHUA_A195420_000077,b,"Wildschut, J.",zadelmaker,5,,5,,5,,5,,4,,5,,,,,,,,,,,
+839,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Kleefstra, F.O.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,25,gehuwd,38,20 april opnieuw in dienst getreden
+840,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Brakel, A.",zadelmaker,0,,0,,5,,5,,5,,5.5,,,,,,,,,,,
+841,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Kessel, J.C. Van",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+842,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Hooijdonk, A.W. v.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,41,20 april opnieuw in dienst getreden
+843,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Wit, J.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,44,20 april opnieuw in dienst getreden
+844,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Somers, J.A.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,15,gehuwd,34,20 april opnieuw in dienst getreden
+845,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Maanen, G.A. v.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+846,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Watzema, H.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,44,20 april opnieuw in dienst getreden
+847,Zadelmakerij,77,NL-UtHUA_A195420_000077,b,"Uitendaal, A.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+848,Zadelmakerij,77,NL-UtHUA_A195420_000077,b,"Smit, C.J.",zadelmaker,2.5,,4.5,,5,,5,,5,,5,,,,,,,,,,,
+849,Zadelmakerij,77,NL-UtHUA_A195420_000077,g,"Meulen, W. v.d.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,37,20 april opnieuw in dienst getreden
+850,Zadelmakerij,77,NL-UtHUA_A195420_000077,w,"Touw, C. v.d.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+851,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Leeuwen, D. van",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+852,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Sostman, H.J.J.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+853,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Noorduin, P.A. v.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+854,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Bonnen, G.K.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,28,20 april opnieuw in dienst getreden
+855,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Wetering, F.v.d.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+856,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Fortgens, Jr. C.",zadelmaker,5,,5,,5,,5,,5,,5.5,,,,,,,,,,,
+857,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Boonstra, J.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+858,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Wils, W.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+859,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Westerburger, J.F.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+860,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Geldorp, D.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,29,20 april opnieuw in dienst getreden
+861,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Brederode, W.B. Van",zadelmaker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+862,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Essen, W. van",zadelmaker,0,,5,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,26,20 april opnieuw in dienst getreden
+863,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Stooker, J.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+864,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Kruijer, H.D.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+865,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Blokker, J.",zadelmaker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+866,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Knol, J.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,26,20 april opnieuw in dienst getreden
+867,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Gosewehr, H.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,27,20 april opnieuw in dienst getreden
+868,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Aalst, H.w. Van",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+869,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Oploo, J.F. Van",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+870,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Steffers, H.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,28,20 april opnieuw in dienst getreden
+871,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Werff, Th. J. v.d.",zadelmaker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,26,20 april opnieuw in dienst getreden
+872,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Scholte, G.P.",haarpluizer,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+873,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,Schrama. N.,haarpluizer,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+874,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Zwart, A.F.C. De",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+875,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Vonk, C.J.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+876,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Liedmeijer, J.A.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+877,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Meijer, Chr.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+878,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Toepoel, D.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+879,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Meijer, J.K.",zadelmaker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+880,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Krimp, A.G.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+881,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Kruiswijk, J.",zadelmaker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+882,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Hulshoff, A.H.",zadelmaker,0,verlof,0,verlof,0,verlof,0,verlof,5,,5,,,,,,,,,,,
+883,Zadelmakerij,78,NL-UtHUA_A195420_000078,w,"Vester, P.",zadelmaker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+884,Zadelmakerij,78,NL-UtHUA_A195420_000078,g,"Grondelle, L. v.",zadelmaker,0,,5,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,21,20 april opnieuw in dienst getreden
+885,Zadelmakerij,78,NL-UtHUA_A195420_000078,b,"Wagemaker, A.B.",zadelmaker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+886,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Geeve, J.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+887,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Draijer, C.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+888,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Hoogervorst, C.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+889,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Zwart, C.H.T. De",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+890,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Bold, H. v.d.",ploegbaas,4.5,,4.5,,5,,5,,5,,5,,,,,,,,,,,
+891,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Kerkhoff, Sr., A.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+892,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Vreeden, M. van",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+893,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Liedmeijer, A.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+894,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Hulscher, A.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+895,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Fortgens, Sr., L.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+896,Schilderswinkel,79,NL-UtHUA_A195420_000079,r,"Hoevens, M.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,20,gehuwd,47,
+897,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Vreeden, M.J. Van",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+898,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Bottenburg, J. v.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+899,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Bottenburg, G. v,",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+900,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Hoogervorst, P.C.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+901,Schilderswinkel,79,NL-UtHUA_A195420_000079,r,"Kemp, J.",schilder,0,,0,,0,,0,,0,,2.5,,,ja,ja,ja,nee,,19,gehuwd,45,Heeft donderdag 9/4 weer gestaakt.
+902,Schilderswinkel,79,NL-UtHUA_A195420_000079,g,"Neugebauer, C.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,53,20 april opnieuw in dienst getreden
+903,Schilderswinkel,79,NL-UtHUA_A195420_000079,r,"Kerkhoff, Jr., A.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,19,gehuwd,39,
+904,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Vreeden, J.A. van",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+905,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Rijbroek, F.",schilder,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+906,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Serne, G.",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+907,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Puttenaar, J.",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+908,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Weijers, S.",schilder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+909,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Breemen, J, van",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+910,Schilderswinkel,79,NL-UtHUA_A195420_000079,g,"Rijk, D.W. De",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,34,20 april opnieuw in dienst getreden
+911,Schilderswinkel,79,NL-UtHUA_A195420_000079,g,"Haeseker, J.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,40,20 april opnieuw in dienst getreden
+912,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Ketel, K. van",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+913,Schilderswinkel,79,NL-UtHUA_A195420_000079,g,"Dijkstra, A.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,13,gehuwd,41,20 april opnieuw in dienst getreden
+914,Schilderswinkel,79,NL-UtHUA_A195420_000079,w,"Kenselaar, J.",schilder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+915,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Donselaar, J.M. Van",schilder,5,,5,,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+916,Schilderswinkel,79,NL-UtHUA_A195420_000079,r,"Trompetter, H.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,42,
+917,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Frenay, G.F.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+918,Schilderswinkel,79,NL-UtHUA_A195420_000079,b,"Groenveld, W.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+919,Schilderswinkel,79,NL-UtHUA_A195420_000079,r,"Ijssels, J.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,7,gehuwd,41,
+920,Schilderswinkel,79,NL-UtHUA_A195420_000079,g,"Vliet, T. van",schilder,0,,0,,5,,5,,0,,0,,,,ja,ja,ja,,7,gehuwd,38,20 april opnieuw in dienst getreden
+921,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Marchand, J.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+922,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Nieuwenhuizen, H. v.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+923,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Bengeling, D.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+924,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Fortgens, Jr. L.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+925,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Fiege, J.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,31,20 april opnieuw in dienst getreden
+926,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Bak, C.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,29,20 april opnieuw in dienst getreden
+927,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Beelen, P.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+928,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Lichtenveldt, J.H.",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+929,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Mohringer, J.",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+930,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Brandt, J.P.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,29,20 april opnieuw in dienst getreden
+931,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Maarse, D.",schilder,0,,5.5,,5,,5,,0,verlof,0,verlof,,,,,,,,,,
+932,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Lewis, J.L.A.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,29,20 april opnieuw in dienst getreden
+933,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Aarse, A.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+934,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Oploo, B.J. Van",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,25,20 april opnieuw in dienst getreden
+935,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Nooij, H. de",schilder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+936,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Rijbroek, J.C.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+937,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Jurres, G.",schilder,0,,5,,0,,0,,0,,0,,,,ja,ja,ja,,7,ongehuwd,26,20 april opnieuw in dienst getreden
+938,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Smit, J.W.G.L.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,26,20 april opnieuw in dienst getreden
+939,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Aken, K. van",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+940,Schilderswinkel,80,NL-UtHUA_A195420_000080,r,"Martens, W.F.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,ongehuwd,28,
+941,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Kok, G.B.",schilder,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+942,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Koning, H.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,26,20 april opnieuw in dienst getreden
+943,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Veldwijk, J.",schilder,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+944,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Wielart, J.A.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+945,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Zwarter, J.P.",schilder,0,,0,,5,,0,,5,,5,,,,,,,,,,,
+946,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Meijer, J. ",schilder,0,ontslag,0,ontslag,0,ontslag,0,ontslag,0,ontslag,0,ontslag,,,,,,,,,,
+947,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Toepoel, D.",schilder,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,7,ongehuwd,25,20 april opnieuw in dienst getreden
+948,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Gulik, L. van",schilder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+949,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Horeman, J.H.",schilder,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+950,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Liedmeijer, A.",schilder,0,,0,,5,,5,,0,schutterij,5,,,,,,,,,,,
+951,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Schuijlenburg, A.J.B. v.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,24,20 april opnieuw in dienst getreden
+952,Schilderswinkel,80,NL-UtHUA_A195420_000080,g,"Donselaar, J.A. v.",schilder,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,ongehuwd,23,20 april opnieuw in dienst getreden
+953,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Moring, H.J.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+954,Schilderswinkel,80,NL-UtHUA_A195420_000080,w,"Kruijff, A.",schilder,0,,0,,0,,0,,0,,0,,ja,,ja,ja,,,6,ongehuwd,23,14 april te werk gesteld
+955,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Veen, J. van",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+956,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Giling, Th.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+957,Schilderswinkel,80,NL-UtHUA_A195420_000080,b,"Hoogers, H.",schilder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+958,Schilderswinkel,81,NL-UtHUA_A195420_000081,r,"Kloos, H.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-11-11,0,ongehuwd,25,
+959,Schilderswinkel,81,NL-UtHUA_A195420_000081,r,"Smit, M.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-11-17,0,ongehuwd,20,
+960,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Kelderman, G.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+961,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Waleveld, C.J.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+962,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,w,"Aakster, J.J.L. v.d.",rijtuigpoetser,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+963,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Balm, H.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+964,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Stam, P.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+965,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Schulpzand, C.E.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+966,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Wessel, H.G.",rijtuigpoetser,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+967,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,g,"Goosens, P.",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,26,20 april opnieuw in dienst getreden
+968,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,w,"Hageborst, P.H.",rijtuigpoetser,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+969,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,g,"Geus, F.J. De",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,24,20 april opnieuw in dienst getreden
+970,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,g,"Casse, C.",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,24,20 april opnieuw in dienst getreden
+971,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,g,"Hos, J.H.",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,23,20 april opnieuw in dienst getreden
+972,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,g,"Vink, A.",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,36,20 april opnieuw in dienst getreden
+973,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,r,"Klerk, J. de",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-12-01,0,ongehuwd,27,
+974,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,r,"Broers, G.",rijtuigpoetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1902-12-01,0,gehuwd,30,
+975,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Hosbroeks, M.",rijtuigpoetster,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+976,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Aalderink, D.",rijtuigpoetster,5,,4.5,,5,,4.5,,0,ziek,0,ziek,,,,,,,,,,
+977,Rijtuigpoetsers,81,NL-UtHUA_A195420_000081,b,"Geus, M. de",rijtuigpoetster,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+978,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Dijk, S. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+979,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Vastenouw, F.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+980,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Musscher, G. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+981,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Berg, J.W. v.d.",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+982,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Arnold Jr., C.F.",ploegbaas,5,,6.5,,5,,6.5,,5,,6.5,,,,,,,,,,,
+983,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Schaar, J.W. v.d.",ploegbaas,6,,5,,2.5,,1.5,,6,,6.5,,,,,,,,,,,
+984,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Lange, J. de",ploegbaas,5,,5,,5,,5,,5,,4.5,,,,,,,,,,,
+985,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Kerkhoven, N.",ploegbaas,5,,5,,5,,1,,5,,3.5,,,,,,,,,,,
+986,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Dernison, A.J.",bankwerker,5,,5,,4,,5,,5,,5,,,,,,,,,,,
+987,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Haeseker, J.C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+988,Rijtuigbankwerkerij,81,NL-UtHUA_A195420_000081,b,"Rosenberg, P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+989,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Dankelman, H.",bankwerker,0,,0,,5,,5,,5,,4.5,,,,,,,,,,,
+990,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Noorduin, A. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+991,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Remme, W.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+992,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Graaff, M. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+993,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Pfaff, J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+994,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Chabot, P.J.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+995,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Ondolf, W.J.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+996,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Kerkhoff, F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+997,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Dreijer, J.W. ",bankwerker,5,,5,,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+998,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Coolen, P.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+999,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Ruifrok, J.A.",bankwerker,0,,0,,5,,5,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1000,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Timmer, C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1001,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Dokkum, J.J. v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,21,gehuwd,42,20 april opnieuw in dienst getreden
+1002,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Frolich, J.J.",bankwerker,0,,0,,5,,0,,5,,5,,,,,,,,,,,
+1003,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Kedde, J.C.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1004,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Sebus, Th. J. A.",bankwerker,5,,5,,0,verlof,0,verlof,0,verlof,0,verlof,,,,,,,,,,
+1005,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Hollander, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,42,20 april opnieuw in dienst getreden
+1006,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Pierre, D.W. La",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,40,20 april opnieuw in dienst getreden
+1007,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Hensen, C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,19,gehuwd,31,20 april opnieuw in dienst getreden
+1008,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,r,"Batens, C.L.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,19,gehuwd,42,
+1009,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Vermeer, C.",bankwerker,0,verlof,0,verlof,5,,5,,5,,5,,,,,,,,,,,
+1010,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Creemers, J.",bankwerker,0,,0,,5,,5,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1011,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,r,"Slepers, J.B.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,17,gehuwd,47,
+1012,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Lugt, J. de",bankwerker,5,,5,,5,,5,,5,,4.5,,,,,,,,,,,
+1013,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Leeuwerik, N.",bankwerker,0,,0,,0,,0,,0,,2.5,,,,,,,,,,,
+1014,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Coolen, H.",bankwerker,6,,5,,6,,5,,6,,6.5,,,,,,,,,,,
+1015,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Graaff, C.B. De",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,16,gehuwd,37,20 april opnieuw in dienst getreden
+1016,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Graaff, C. de",bankwerker,5,,5,,5,,5,,5,,4.5,,,,,,,,,,,
+1017,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Menke, F.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1018,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Kuit, W.F.",bankwerker,5,,6.5,,5,,5,,5,,5,,,,,,,,,,,
+1019,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,Bosch. H. v.d.,bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1020,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Krooswijk, F.H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1021,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Mink, M. de",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1022,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,w,"Boeree, M.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1023,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,r,"Steenken, C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,41,
+1024,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,b,"Wit, A. de",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+1025,Rijtuigbankwerkerij,82,NL-UtHUA_A195420_000082,g,"Bilderbeek, J.H. v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,11,gehuwd,31,20 april opnieuw in dienst getreden
+1026,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Velthuijsen, A.L. v.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1027,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Bouman, N.",bankwerker,0,,0,,0,,0,,0,,0,,,ja,ja,ja,ja,,10,gehuwd,33,20 april opnieuw in dienst getreden
+1028,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Slingerland, J.D.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1029,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Costers, W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,gehuwd,34,20 april opnieuw in dienst getreden
+1030,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Valbracht, P.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1031,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Mohringer, W.F.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1032,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Ondolf, J.P.F.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+1033,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Verhoop, J.H.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1034,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Miegielse, J.H.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1035,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Ulsamer, H.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,15,gehuwd,32,
+1036,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Roelofs, J.A.",bankwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+1037,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Ruigrok v/d Werve, C.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+1038,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Bakker, J.P.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1039,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Walle, J.J.v.d.",zagenvijler,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1040,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Voskuilen, F.C.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,10,gehuwd,39,20 april opnieuw in dienst getreden
+1041,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Roeland, J.",bankwerker,0,,0,,5,,5,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1042,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Norde, D. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,7,gehuwd,35,20 april opnieuw in dienst getreden
+1043,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Eijkenaar, N.",bankwerker,0,,0,,5,,5,,0,,0,,,,ja,ja,ja,,7,gehuwd,30,20 april opnieuw in dienst getreden
+1044,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Boer, J. de",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,28,
+1045,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Keizerswaard, F. v.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,13,gehuwd,28,
+1046,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Meulen, J.E. v.d.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1047,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Klumper, C.J.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1048,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Martens, F.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,ongehuwd,28,
+1049,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Riemers, L.A.",bankwerker,0,,5,,5,,5,,5,,5,,,,,,,,,,,
+1050,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Vogels, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1051,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Terstal, R.",bankwerker,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+1052,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Veen, J. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1053,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Schagen, N.L. Van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,gehuwd,24,
+1054,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Graaf, A.W.L. De",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+1055,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Heinsbergen, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1056,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,b,"Miesen, F.v.d.",bankwerker,0,gewond,0,gewond,0,gewond,0,gewond,0,gewond,0,gewond,,,,,,,,,,
+1057,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Meijer, H.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,9,ongehuwd,25,20 april opnieuw in dienst getreden
+1058,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,g,"Opbroek, H.",bankwerker,0,,0,,5,,5,,0,,0,,,,ja,ja,ja,,7,gehuwd,28,20 april opnieuw in dienst getreden
+1059,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Raap, N.F.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,6,gehuwd,27,
+1060,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Haeseker, J.",bankwerker,0,,0,,0,,0,,0,,2.5,,,,,,,,,,,
+1061,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,r,"Sauver, F.M.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,gehuwd,26,
+1062,Rijtuigbankwerkerij,83,NL-UtHUA_A195420_000083,w,"Honschooten, W. v.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1063,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Nales, J.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,25,
+1064,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Graaf, J.W. De",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,26,20 april opnieuw in dienst getreden
+1065,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Graaff, J.J.C. De",bankwerker,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+1066,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Honnebier, Th.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1067,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Fiege, H.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,14,gehuwd,42,20 april opnieuw in dienst getreden
+1068,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Deen, H.G.",bankwerker,5,,5,,5,,5,,5,,4.5,,,,,,,,,,,
+1069,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Gevel, P.J.J. v.d.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,10,gehuwd,26,
+1070,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Molenaar, J.J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,ongehuwd,25,20 april opnieuw in dienst getreden
+1071,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Wijkhuizen, J.D.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1072,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Braspenning, A.C.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+1073,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Blankensteijn, J.",bankwerker,0,,0,,0,,0,,0,,2.5,,,,,,,,,,,
+1074,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Steeman, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,ongehuwd,23,20 april opnieuw in dienst getreden
+1075,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Mensink, J.H.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1076,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Steen, H.B.",bankwerker,5,,5,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,19,20 april opnieuw in dienst getreden
+1077,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Ophuizen, L.A.",bankwerker,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+1078,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Meijer, Jr. J.F.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+1079,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Klinkenberg, J.D.",bankwerker,0,,0,,0,,5,,5,,5,,,,,,,,,,,
+1080,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Zonneveld, J. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,25,20 april opnieuw in dienst getreden
+1081,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Tongeren, D.H. Van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,27,20 april opnieuw in dienst getreden
+1082,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Venger, D.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,19,20 april opnieuw in dienst getreden
+1083,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Dankelman, J.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1084,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Junge, H.L.J.",bankwerker,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1085,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Liedmeijer, W.",bankwerker,5,,5,,5,,4.5,,5,,5,,,,,,,,,,,
+1086,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Groeneveld, H.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1087,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Hulscher, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,22,
+1088,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Bavel, C. van",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,24,
+1089,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Stouten, Th.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,2,ongehuwd,22,
+1090,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Sprengers, C.W.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,ongehuwd,21,20 april opnieuw in dienst getreden
+1091,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Zwemmer, A.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1092,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Cassee, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,35,20 april opnieuw in dienst getreden
+1093,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,g,"Wijnands, J.",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,2,gehuwd,27,20 april opnieuw in dienst getreden
+1094,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Becker, M.",bankwerker,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,0,verlof/milit. Dnst,,,,,,,,,,
+1095,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,w,"Woestenberg, J.M.",bankwerker,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1096,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Huijg, M.",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1097,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,b,"Leeuwen, W. van",bankwerker,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1098,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,"Vries, A. de",bankwerker,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1903-03-23,0,ongehuwd,23,
+1099,Rijtuigbankwerkerij,84,NL-UtHUA_A195420_000084,r,Knop. J.W.,poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,1903-03-09,0,ongehuwd,28,
+1100,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Warmer, S.",poetser,5,,6.5,,5,,6.5,,5,,6.5,,,,,,,,,,,
+1101,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,g,"Jong, L. de",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,44,20 april opnieuw in dienst getreden
+1102,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,g,"Opdam, J.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,26,20 april opnieuw in dienst getreden
+1103,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Hoogers, H.",schaver,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1104,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Berg, J.C.v.d.",draaier,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1105,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Veldt, G. v.d.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1106,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Hendriks, A.M.",boorder,0,,0,,5,,5,,5,,4.5,,,,,,,,,,,
+1107,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Smit, J.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1108,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Niel, A. van",boorder,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+1109,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Peper, B.C.P.",draadsnijder,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1110,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Alderliesten, W.J.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1111,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Pekelharing, J.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1112,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,w,"Bakker, C.",boorder,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1113,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,r,"Berloo, H.L. Van",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,40,
+1114,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Tuijl, A.F.W. van",draadsnijder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1115,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,r,"Hartman, H.C.",boorder,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,11,gehuwd,36,
+1116,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Tuijl, K. van",draadsnijder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1117,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Wassenberg, J.",boorder,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+1118,Rijtuigbankwerkerij,85,NL-UtHUA_A195420_000085,b,"Vader, G,",draadsnijder,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1119,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Corstanje, A. van",ploegbaas,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1120,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Werff, J. v.d.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1121,Wagenlichterij,85,NL-UtHUA_A195420_000085,w,"Honing, J.",wagenlichter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1122,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Stroes, C.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1123,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Bos, J.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1124,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Schutte, H.J.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1125,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Schouten, A.J.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1126,Wagenlichterij,85,NL-UtHUA_A195420_000085,w,"Roose, J.",wagenlichter,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1127,Wagenlichterij,85,NL-UtHUA_A195420_000085,w,"Snoeks, P.C.",wagenlichter,0,,0,,0,,0,,5,,5,,,,,,,,,,,
+1128,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Kamp, J.v.d.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1129,Wagenlichterij,85,NL-UtHUA_A195420_000085,r,"Frijn, D.A.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,12,gehuwd,34,
+1130,Wagenlichterij,85,NL-UtHUA_A195420_000085,g,"Appelboom, A.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,12,gehuwd,38,20 april opnieuw in dienst getreden
+1131,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Eggers, H.B.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1132,Wagenlichterij,85,NL-UtHUA_A195420_000085,b,"Duits, H.C.",wagenlichter,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,0,ziek,,,,,,,,,,
+1133,Wagenlichterij,85,NL-UtHUA_A195420_000085,w,"Vaart, W. v.d.",wagenlichter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1134,Wagenlichterij,86,NL-UtHUA_A195420_000086,r,"Broekhuizen, C.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,5,gehuwd,33,
+1135,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Aartsen, A.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1136,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Eijking, J.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1137,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Roeland, S.",wagenlichter,0,,0,,5,,5,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1138,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Mensink, W.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1139,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Roelen, P.C.",wagenlichter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1140,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Vries, J.C. de",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,1,gehuwd,27,20 april opnieuw in dienst getreden
+1141,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Alders, G.",wagenlichter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1142,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Schaap, A.",wagenlichter,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+1143,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Ijfs, W.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,27,20 april opnieuw in dienst getreden
+1144,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Aar, J. v.d.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,28,20 april opnieuw in dienst getreden
+1145,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Valbracht, A.",wagenlichter,0,,0,,5,,5,,5,,5,,,,,,,,,,,
+1146,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Appelboom, K.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,33,20 april opnieuw in dienst getreden
+1147,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Pruis, G.",wagenlichter,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+1148,Wagenlichterij,86,NL-UtHUA_A195420_000086,r,"Duijvelshoff, F.C.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,36,
+1149,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Bijster, J.",wagenlichter,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1150,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Zonneveld, C. van",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,6,gehuwd,26,20 april opnieuw in dienst getreden
+1151,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Engh, J. v.d.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1152,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Piers, H.P.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1153,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,Wit II A. de,wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1154,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Sijpesteijn, G.J.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,26,20 april opnieuw in dienst getreden
+1155,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Colk, W. v.d.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,3,gehuwd,26,20 april opnieuw in dienst getreden
+1156,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"El, P.J. Van",wagenlichter,0,,0,,0,,0,,0,,5,,,,,,,,,,,
+1157,Wagenlichterij,86,NL-UtHUA_A195420_000086,b,"Kruijer, P.A.",wagenlichter,5,,5,,5,,5,,5,,5,,,,,,,,,,,
+1158,Wagenlichterij,86,NL-UtHUA_A195420_000086,r,"Horst, P.v.d.",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,4,gehuwd,28,
+1159,Wagenlichterij,86,NL-UtHUA_A195420_000086,r,"Grootveld, K. van",wagenlichter,0,,0,,0,,0,,0,,0,,,,ja,ja,nee,,3,ongehuwd,25,
+1160,Wagenlichterij,86,NL-UtHUA_A195420_000086,w,"Baars, H.A.",wagenlichter,0,,0,,0,,0,,0,,0,,ja,,,,,,,,,14 april te werk gesteld
+1161,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Goes, P.C. v.d.",draaier,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,4,gehuwd,27,20 april opnieuw in dienst getreden
+1162,Wagenlichterij,86,NL-UtHUA_A195420_000086,r,"Zurk, C.C. Van",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,,,5,ongehuwd,25,
+1163,Wagenlichterij,86,NL-UtHUA_A195420_000086,g,"Feije, G.G.",poetser,0,,0,,0,,0,,0,,0,,,,ja,ja,ja,,5,gehuwd,27,20 april opnieuw in dienst getreden
